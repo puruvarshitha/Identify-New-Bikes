@@ -1,0 +1,52 @@
+{
+    "Upcoming bikes list": [
+        {
+            "name": "Royal Enfield Bullet 650",
+            "price": "Rs. 3.40 Lakh",
+            "launchDates": "Expected Launch : Feb 2026",
+            "dataprice": "340000"
+        },
+        {
+            "name": "Royal Enfield Flying Flea C6",
+            "price": "Rs. 2.00 Lakh",
+            "launchDates": "Expected Launch : Mar 2026",
+            "dataprice": "200000"
+        },
+        {
+            "name": "Royal Enfield 250",
+            "price": "Rs. 1.30 Lakh",
+            "launchDates": "Expected Launch : Sep 2026",
+            "dataprice": "130000"
+        },
+        {
+            "name": "Royal Enfield Interceptor 750",
+            "price": "Rs. 3.80 Lakh",
+            "launchDates": "Expected Launch : Nov 2026",
+            "dataprice": "380000"
+        },
+        {
+            "name": "Royal Enfield Continental GT 750",
+            "price": "Rs. 3.90 Lakh",
+            "launchDates": "Expected Launch : Nov 2026",
+            "dataprice": "390000"
+        },
+        {
+            "name": "Royal Enfield Flying Flea S6",
+            "price": "Rs. 2.30 Lakh",
+            "launchDates": "Expected Launch : Jan 2027",
+            "dataprice": "230000"
+        },
+        {
+            "name": "Royal Enfield Continental GT 450",
+            "price": "Rs. 2.75 Lakh",
+            "launchDates": "Expected Launch : Unrevealed",
+            "dataprice": "275000"
+        },
+        {
+            "name": "Royal Enfield Constellation",
+            "price": "Rs. 3.50 Lakh",
+            "launchDates": "Expected Launch : Unrevealed",
+            "dataprice": "350000"
+        }
+    ]
+}
