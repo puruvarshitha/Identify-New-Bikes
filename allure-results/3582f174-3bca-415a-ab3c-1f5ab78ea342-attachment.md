@@ -1,0 +1,1893 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic:
+        - generic [ref=e4]:
+          - generic: 
+          - link "Home" [ref=e5]:
+            - /url: /
+            - img "Home" [ref=e6]
+          - text:    
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - generic [ref=e11] [cursor=pointer]:
+                - generic: 
+                - text: NEWS & REVIEWS
+            - listitem [ref=e12]:
+              - generic [ref=e13] [cursor=pointer]:
+                - generic: 
+                - text: NEW CARS
+            - listitem [ref=e14]:
+              - generic [ref=e15] [cursor=pointer]:
+                - generic: 
+                - text: NEW BIKES
+            - listitem [ref=e16]:
+              - generic [ref=e17] [cursor=pointer]:
+                - generic: 
+                - text: SCOOTERS
+            - listitem [ref=e18]:
+              - generic [ref=e19] [cursor=pointer]:
+                - generic: 
+                - text: MORE
+        - generic [ref=e21]:
+          - textbox "Creta, Community, On Road Price, Ola S1, TVS Bikes" [ref=e22]:
+            - /placeholder: Search car or bike
+          - button "" [ref=e23] [cursor=pointer]
+        - generic [ref=e29] [cursor=pointer]: 
+  - generic [ref=e30]:
+    - list [ref=e31]:
+      - listitem [ref=e32]:
+        - link [ref=e33]:
+          - /url: https://www.zigwheels.com/news-features/general-news/tata-punch-ev-facelift-launched-at-rs-6.49-lakh-more-range-new-features-and-updated-styling/57678/
+      - listitem [ref=e34]:
+        - link [ref=e35]:
+          - /url: https://www.zigwheels.com/news-features/general-news/volkswagen-tayron-r-line-launched-at-rs-46.99-lakh-say-hello-to-vws-new-flagship/57675/
+      - listitem [ref=e36]:
+        - link [ref=e37]:
+          - /url: https://www.zigwheels.com/news-features/general-news/nissan-gravite-sub-4m-mpv-launched-in-india-at-rs-5.65-lakh/57668/
+      - listitem [ref=e38]:
+        - link [ref=e39]:
+          - /url: https://www.zigwheels.com/news-features/general-news/bajaj-chetak-c2501-first-ride-review-cute-ly-competent/57612/
+    - generic [ref=e40]:
+      - heading "Find Your Dream Car or Bike" [level=1] [ref=e41]
+      - generic [ref=e44]:
+        - textbox "Search car or bike" [ref=e45]
+        - button [ref=e47] [cursor=pointer]
+  - generic [ref=e49]:
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - heading "Browse Cars By" [level=2] [ref=e52]
+        - list [ref=e54]:
+          - listitem [ref=e55] [cursor=pointer]: Budget
+          - listitem [ref=e56] [cursor=pointer]: Brand
+          - listitem [ref=e57] [cursor=pointer]: Fuel Type
+          - listitem [ref=e58] [cursor=pointer]: Transmission
+          - listitem [ref=e59] [cursor=pointer]: Seating Capacity
+      - generic [ref=e62]:
+        - generic:
+          - link "Cars under 4 Lakh" [ref=e63] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newcars/cars-under-4-lakhs
+          - link "Cars under 6 Lakh" [ref=e64] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newcars/cars-under-6-lakhs
+          - link "Cars under 10 Lakh" [ref=e65] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newcars/cars-under-10-lakhs
+          - link "Cars under 15 Lakh" [ref=e66] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newcars/cars-under-15-lakhs
+          - link "Cars under 20 Lakh" [ref=e67] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newcars/cars-under-20-lakhs
+          - link "Cars under 40 Lakh" [ref=e68] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newcars/cars-under-40-lakhs
+          - link "Cars above 40 Lakh" [ref=e69] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newcars/cars-above-40-lakhs
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - heading "Browse Bikes By" [level=2] [ref=e72]
+        - list [ref=e74]:
+          - listitem [ref=e75] [cursor=pointer]: Budget
+          - listitem [ref=e76] [cursor=pointer]: Brand
+          - listitem [ref=e77] [cursor=pointer]: Displacement
+      - generic [ref=e80]:
+        - generic:
+          - link "Bikes under 70000" [ref=e81] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newbikes/bikes-under-70000
+          - link "Bikes under 1 Lakh" [ref=e82] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newbikes/bikes-under-1-lakh
+          - link "Bikes under 2 Lakh" [ref=e83] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newbikes/bikes-under-2-lakhs
+          - link "Bikes under 5 Lakh" [ref=e84] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newbikes/bikes-under-5-lakhs
+          - link "Bikes above 5 Lakh" [ref=e85] [cursor=pointer]:
+            - /url: https://www.zigwheels.com/newbikes/bikes-above-5-lakhs
+    - generic [ref=e86]:
+      - generic [ref=e87]:
+        - heading "Latest Auto Updates" [level=2] [ref=e88]
+        - list [ref=e92]:
+          - listitem [ref=e93] [cursor=pointer]: Latest
+          - listitem [ref=e94] [cursor=pointer]: Reviews
+          - listitem [ref=e95] [cursor=pointer]: Videos
+          - listitem [ref=e96] [cursor=pointer]: Web Stories
+      - generic [ref=e97]:
+        - generic [ref=e101]:
+          - list [ref=e105]:
+            - listitem [ref=e106] [cursor=pointer]:
+              - 'img "2026 MG Majestor Colours Explained: Which Shade Should You Choose?" [ref=e107]'
+              - generic [ref=e108]:
+                - 'link "2026 MG Majestor Colours Explained: Which Shade Should You Choose?" [ref=e109]':
+                  - /url: /news-features/general-news/2026-mg-majestor-colours-explained-which-shade-should-you-choose/57680/
+                - generic [ref=e110]: 20 Feb, 2026 318 views
+            - listitem [ref=e112] [cursor=pointer]:
+              - 'img "2026 Tata Punch EV Facelift Vs Old Tata Punch EV: What’s Changed?" [ref=e113]'
+              - generic [ref=e114]:
+                - 'link "2026 Tata Punch EV Facelift Vs Old Tata Punch EV: What’s..." [ref=e115]':
+                  - /url: /news-features/general-news/2026-tata-punch-ev-facelift-vs-old-tata-punch-ev-whats-changed/57679/
+                - generic [ref=e116]: 20 Feb, 2026 825 views
+            - listitem [ref=e118] [cursor=pointer]:
+              - img "Tata Punch EV Facelift Launched At Rs 6.49 Lakh With BaaS Pricing; More Range, New Features And Updated Styling…." [ref=e119]
+              - generic [ref=e120]:
+                - link "Tata Punch EV Facelift Launched At Rs 6.49 Lakh With BaaS Pricing;..." [ref=e121]:
+                  - /url: /news-features/general-news/tata-punch-ev-facelift-launched-at-rs-6.49-lakh-with-baas-pricing-more-range-new-features-and-updated-styling/57678/
+                - generic [ref=e122]: 20 Feb, 2026 4905 views
+            - listitem [ref=e124] [cursor=pointer]:
+              - img "Norton Atlas Testing Continues; More Details Surface" [ref=e125]
+              - generic [ref=e126]:
+                - link "Norton Atlas Testing Continues; More Details Surface" [ref=e127]:
+                  - /url: /news-features/spiedteasers/norton-atlas-testing-continues-more-details-surface/57677/
+                - generic [ref=e128]: 20 Feb, 2026 461 views
+            - listitem [ref=e130] [cursor=pointer]:
+              - 'img "Tata Punch EV Facelift To Be Launched Tomorrow: Here’s What To Expect" [ref=e131]'
+              - generic [ref=e132]:
+                - 'link "Tata Punch EV Facelift To Be Launched Tomorrow: Here’s What To..." [ref=e133]':
+                  - /url: /news-features/general-news/tata-punch-ev-facelift-to-be-launched-tomorrow-heres-what-to-expect/57676/
+                - generic [ref=e134]: 19 Feb, 2026 1086 views
+            - listitem [ref=e136] [cursor=pointer]:
+              - img "Volkswagen Tayron R-Line Launched At Rs 46.99 Lakh; Say Hello To VW’s New Flagship!" [ref=e137]
+              - generic [ref=e138]:
+                - link "Volkswagen Tayron R-Line Launched At Rs 46.99 Lakh; Say Hello To..." [ref=e139]:
+                  - /url: /news-features/general-news/volkswagen-tayron-r-line-launched-at-rs-46.99-lakh-say-hello-to-vws-new-flagship/57675/
+                - generic [ref=e140]: 19 Feb, 2026 826 views
+          - link "All News Updates" [ref=e145] [cursor=pointer]:
+            - /url: /news
+        - generic [ref=e149]:
+          - list [ref=e153]:
+            - listitem [ref=e154] [cursor=pointer]:
+              - 'img "Eurogrip Trailhound SCR Long-Term Review: 3 Months & 3,000km Done" [ref=e155]'
+              - generic [ref=e156]:
+                - 'link "Eurogrip Trailhound SCR Long-Term Review: 3 Months & 3,000km Done" [ref=e157]':
+                  - /url: /reviews-advice/reviews/eurogrip-trailhound-scr-long-term-review-3-months-3000km-done/57640/
+                - generic [ref=e158]: 8 Feb, 2026 1129 views
+            - listitem [ref=e160] [cursor=pointer]:
+              - 'img "Reise x Spidi Diablo Pants: 8-Month Review" [ref=e161]'
+              - generic [ref=e162]:
+                - 'link "Reise x Spidi Diablo Pants: 8-Month Review" [ref=e163]':
+                  - /url: /reviews-advice/reviews/reise-x-spidi-diablo-pants-8-month-review/57383/
+                - generic [ref=e164]: 10 Dec, 2025 2227 views
+            - listitem [ref=e166] [cursor=pointer]:
+              - 'img "Viaterra Holeshot Pro Riding Gloves Review: 1-Year Later" [ref=e167]'
+              - generic [ref=e168]:
+                - 'link "Viaterra Holeshot Pro Riding Gloves Review: 1-Year Later" [ref=e169]':
+                  - /url: /reviews-advice/reviews/viaterra-holeshot-pro-riding-gloves-review-1-year-later/57272/
+                - generic [ref=e170]: 15 Nov, 2025 2904 views
+            - listitem [ref=e172] [cursor=pointer]:
+              - 'img "Eurogrip Trailhound SCR Tyres Long Term Review: First Impressions" [ref=e173]'
+              - generic [ref=e174]:
+                - 'link "Eurogrip Trailhound SCR Tyres Long Term Review: First Impressions" [ref=e175]':
+                  - /url: /reviews-advice/reviews/eurogrip-trailhound-scr-tyres-long-term-review-first-impressions/57184/
+                - generic [ref=e176]: 2 Nov, 2025 2466 views
+            - listitem [ref=e178] [cursor=pointer]:
+              - 'img "2025 TVS YMRP Round 2: Finding My Footing" [ref=e179]'
+              - generic [ref=e180]:
+                - 'link "2025 TVS YMRP Round 2: Finding My Footing" [ref=e181]':
+                  - /url: /reviews-advice/reviews/2025-tvs-ymrp-round-2-finding-my-footing/56933/
+                - generic [ref=e182]: 14 Sep, 2025 3192 views
+            - listitem [ref=e184] [cursor=pointer]:
+              - 'img "Hero Xoom 160 First Ride Review: Worth The Wait?" [ref=e185]'
+              - generic [ref=e186]:
+                - 'link "Hero Xoom 160 First Ride Review: Worth The Wait?" [ref=e187]':
+                  - /url: /reviews-advice/reviews/hero-xoom-160-first-ride-review-worth-the-wait/56920/
+                - generic [ref=e188]: 10 Sep, 2025 3643 views
+          - link "Latest Reviews" [ref=e193] [cursor=pointer]:
+            - /url: /reviews
+        - generic [ref=e197]:
+          - list [ref=e201]:
+            - listitem [ref=e202] [cursor=pointer]:
+              - iframe [ref=e204]:
+                
+              - generic [ref=e206]:
+                - link "Toyota Urban Cruiser Ebella Drive Impressions | Zigwheels" [ref=e207]:
+                  - /url: /gallery/reviews/toyota-urban-cruiser-ebella-drive-impressions-zigwheels/57656/1
+                - text: 13 Feb, 2026 2536 views
+                - generic [ref=e208]: 13:14
+            - listitem [ref=e210] [cursor=pointer]:
+              - iframe [ref=e212]:
+                
+              - generic [ref=e214]:
+                - 'link "VW Tayron R-Line Drive Impressions: It’s NOT A Fortuner Rival!" [ref=e215]':
+                  - /url: /gallery/reviews/vw-tayron-r-line-drive-impressions-its-not-a-fortuner-rival/57627/1
+                - text: 4 Feb, 2026 4028 views
+                - generic [ref=e216]: 5:57
+            - listitem [ref=e218] [cursor=pointer]:
+              - iframe [ref=e220]:
+                
+              - generic [ref=e222]:
+                - 'link "TVS NTorq 150 vs NTorq 125 Race XP: Upgrade Worthy?" [ref=e223]':
+                  - /url: /gallery/reviews/tvs-ntorq-150-vs-ntorq-125-race-xp-upgrade-worthy/57624/1
+                - text: 2 Feb, 2026 3323 views
+                - generic [ref=e224]: 6:20
+            - listitem [ref=e226] [cursor=pointer]:
+              - iframe [ref=e228]:
+                
+              - generic [ref=e230]:
+                - link "2026 Renault Duster - What Works & What Doesn’t - ZigAnalysis" [ref=e231]:
+                  - /url: /gallery/reviews/2026-renault-duster-what-works-what-doesnt-ziganalysis/57602/1
+                - text: 27 Jan, 2026 4576 views
+                - generic [ref=e232]: 35:38
+            - listitem [ref=e234] [cursor=pointer]:
+              - iframe [ref=e236]:
+                
+              - generic [ref=e238]:
+                - 'link "2026 Tata Punch Facelift Review: Turbo Packs A Punch!" [ref=e239]':
+                  - /url: /gallery/reviews/2026-tata-punch-facelift-review-turbo-packs-a-punch/57573/1
+                - text: 21 Jan, 2026 6433 views
+                - generic [ref=e240]: 11:48
+            - listitem [ref=e242] [cursor=pointer]:
+              - iframe [ref=e244]:
+                
+              - generic [ref=e246]:
+                - link "Bajaj Chetak C2501 Review | Cute, Cheap & Practical!" [ref=e247]:
+                  - /url: /gallery/reviews/bajaj-chetak-c2501-review-cute-cheap-practical/57558/1
+                - text: 17 Jan, 2026 5561 views
+                - generic [ref=e248]: 14:35
+          - link "Latest Videos" [ref=e253] [cursor=pointer]:
+            - /url: /video
+        - generic [ref=e257]:
+          - list [ref=e260]:
+            - listitem [ref=e261]:
+              - link "TVS Unveils Rann-Inspired Custom Motorcycles TVS Unveils Rann-Inspired Custom Motorcycles 14 Feb, 2026 819 views" [ref=e263]:
+                - /url: /web-stories/tvs-unveils-rann-inspired-custom-motorcycles/57659/
+                - img "TVS Unveils Rann-Inspired Custom Motorcycles" [ref=e265]
+                - generic [ref=e266]:
+                  - strong [ref=e267]: TVS Unveils Rann-Inspired Custom Motorcycles
+                  - generic [ref=e268]:
+                    - text: 14 Feb, 2026
+                    - generic [ref=e269]: 819 views
+            - listitem [ref=e270]:
+              - link "Bajaj Chetak C2501 First Ride Review In Pics Bajaj Chetak C2501 First Ride Review In Pics 14 Feb, 2026 451 views" [ref=e272]:
+                - /url: /web-stories/in-images-bajaj-chetak-c2501-first-ride-review/57657/
+                - img "Bajaj Chetak C2501 First Ride Review In Pics" [ref=e274]
+                - generic [ref=e275]:
+                  - strong [ref=e276]: Bajaj Chetak C2501 First Ride Review In Pics
+                  - generic [ref=e277]:
+                    - text: 14 Feb, 2026
+                    - generic [ref=e278]: 451 views
+            - listitem [ref=e279]:
+              - 'link "MV Agusta Rush Titanio Unveiled: Image Gallery MV Agusta Rush Titanio Unveiled: Image Gallery 2 Feb, 2026 261 views" [ref=e281]':
+                - /url: /web-stories/mv-agusta-rush-titanio-unveiled-image-gallery/57616/
+                - 'img "MV Agusta Rush Titanio Unveiled: Image Gallery" [ref=e283]'
+                - generic [ref=e284]:
+                  - strong [ref=e285]: "MV Agusta Rush Titanio Unveiled: Image Gallery"
+                  - generic [ref=e286]:
+                    - text: 2 Feb, 2026
+                    - generic [ref=e287]: 261 views
+            - listitem [ref=e288]:
+              - 'link "Simple One Gen 2: Review In Images Simple One Gen 2: Review In Images 30 Jan, 2026 196 views" [ref=e290]':
+                - /url: /web-stories/simple-one-gen-2-review-in-images/57607/
+                - 'img "Simple One Gen 2: Review In Images" [ref=e292]'
+                - generic [ref=e293]:
+                  - strong [ref=e294]: "Simple One Gen 2: Review In Images"
+                  - generic [ref=e295]:
+                    - text: 30 Jan, 2026
+                    - generic [ref=e296]: 196 views
+            - listitem [ref=e297]:
+              - 'link "2026 Kawasaki Ninja 300 Launched: In Pics 2026 Kawasaki Ninja 300 Launched: In Pics 21 Jan, 2026 442 views" [ref=e299]':
+                - /url: /web-stories/2026-kawasaki-ninja-300-launched-in-pics/57571/
+                - 'img "2026 Kawasaki Ninja 300 Launched: In Pics" [ref=e301]'
+                - generic [ref=e302]:
+                  - strong [ref=e303]: "2026 Kawasaki Ninja 300 Launched: In Pics"
+                  - generic [ref=e304]:
+                    - text: 21 Jan, 2026
+                    - generic [ref=e305]: 442 views
+            - listitem [ref=e306]:
+              - link "Upcoming Ducati Bikes In India In 2026 Upcoming Ducati Bikes In India In 2026 14 Jan, 2026 800 views" [ref=e308]:
+                - /url: /web-stories/upcoming-ducati-bikes-in-india-in-2026/57541/
+                - img "Upcoming Ducati Bikes In India In 2026" [ref=e310]
+                - generic [ref=e311]:
+                  - strong [ref=e312]: Upcoming Ducati Bikes In India In 2026
+                  - generic [ref=e313]:
+                    - text: 14 Jan, 2026
+                    - generic [ref=e314]: 800 views
+            - listitem [ref=e315]:
+              - 'link "Suzuki e-Access E-scooter Ride Review: In Images Suzuki e-Access E-scooter Ride Review: In Images 10 Jan, 2026 723 views" [ref=e317]':
+                - /url: /web-stories/suzuki-e-access-e-scooter-ride-review-in-images/57526/
+                - 'img "Suzuki e-Access E-scooter Ride Review: In Images" [ref=e319]'
+                - generic [ref=e320]:
+                  - strong [ref=e321]: "Suzuki e-Access E-scooter Ride Review: In Images"
+                  - generic [ref=e322]:
+                    - text: 10 Jan, 2026
+                    - generic [ref=e323]: 723 views
+            - listitem [ref=e324]:
+              - 'link "2026 Bajaj Pulsar 220F Launched In India: In Pictures 2026 Bajaj Pulsar 220F Launched In India: In Pictures 27 Dec, 2025 2451 views" [ref=e326]':
+                - /url: /web-stories/2026-bajaj-pulsar-220f-launched-in-india-in-pictures/57460/
+                - 'img "2026 Bajaj Pulsar 220F Launched In India: In Pictures" [ref=e328]'
+                - generic [ref=e329]:
+                  - strong [ref=e330]: "2026 Bajaj Pulsar 220F Launched In India: In Pictures"
+                  - generic [ref=e331]:
+                    - text: 27 Dec, 2025
+                    - generic [ref=e332]: 2451 views
+            - listitem [ref=e333]:
+              - 'link "Royal Enfield Vita 1200: Image Gallery Royal Enfield Vita 1200: Image Gallery 21 Dec, 2025 704 views" [ref=e335]':
+                - /url: /web-stories/royal-enfield-vita-1200-image-gallery/57437/
+                - 'img "Royal Enfield Vita 1200: Image Gallery" [ref=e337]'
+                - generic [ref=e338]:
+                  - strong [ref=e339]: "Royal Enfield Vita 1200: Image Gallery"
+                  - generic [ref=e340]:
+                    - text: 21 Dec, 2025
+                    - generic [ref=e341]: 704 views
+            - listitem [ref=e342]:
+              - 'link "Harley-Davidson X440 T: Review In Images Harley-Davidson X440 T: Review In Images 13 Dec, 2025 409 views" [ref=e344]':
+                - /url: /web-stories/harley-davidson-x440-t-review-in-images/57403/
+                - 'img "Harley-Davidson X440 T: Review In Images" [ref=e346]'
+                - generic [ref=e347]:
+                  - strong [ref=e348]: "Harley-Davidson X440 T: Review In Images"
+                  - generic [ref=e349]:
+                    - text: 13 Dec, 2025
+                    - generic [ref=e350]: 409 views
+          - link "All Web Stories" [ref=e352] [cursor=pointer]:
+            - /url: /web-stories
+    - generic [ref=e353]:
+      - generic [ref=e355]:
+        - generic [ref=e356]:
+          - heading "New Cars in India" [level=2] [ref=e357]
+          - list [ref=e359]:
+            - listitem [ref=e360] [cursor=pointer]: Popular
+            - listitem [ref=e361] [cursor=pointer]: Latest
+            - listitem [ref=e362] [cursor=pointer]: Upcoming
+        - generic [ref=e363]:
+          - generic [ref=e367]:
+            - list [ref=e371]:
+              - listitem [ref=e372] [cursor=pointer]:
+                - img "Tata Punch" [ref=e373]
+                - generic [ref=e374]:
+                  - link "Tata Punch" [ref=e375]:
+                    - /url: /tata-cars/punch
+                  - generic [ref=e376]: Rs. 5.60 Lakh
+              - listitem [ref=e377] [cursor=pointer]:
+                - img "Tata Sierra" [ref=e378]
+                - generic [ref=e379]:
+                  - link "Tata Sierra" [ref=e380]:
+                    - /url: /tata-cars/sierra
+                  - generic [ref=e381]: Rs. 11.49 Lakh
+              - listitem [ref=e382] [cursor=pointer]:
+                - img "Maruti FRONX" [ref=e383]
+                - generic [ref=e384]:
+                  - link "Maruti FRONX" [ref=e385]:
+                    - /url: /maruti-suzuki-cars/fronx
+                  - generic [ref=e386]: Rs. 6.85 Lakh
+              - listitem [ref=e387] [cursor=pointer]:
+                - img "Kia Seltos" [ref=e388]
+                - generic [ref=e389]:
+                  - link "Kia Seltos" [ref=e390]:
+                    - /url: /kia-cars/seltos
+                  - generic [ref=e391]: Rs. 10.99 Lakh
+              - listitem [ref=e392] [cursor=pointer]:
+                - img "Mahindra Thar" [ref=e393]
+                - generic [ref=e394]:
+                  - link "Mahindra Thar" [ref=e395]:
+                    - /url: /mahindra-cars/thar
+                  - generic [ref=e396]: Rs. 9.99 Lakh
+            - link "All Popular Cars" [ref=e398] [cursor=pointer]:
+              - /url: /newcars/best-cars-in-india
+          - generic [ref=e402]:
+            - list [ref=e406]:
+              - listitem [ref=e407] [cursor=pointer]:
+                - img "Tata Punch EV" [ref=e408]
+                - generic [ref=e409]:
+                  - link "Tata Punch EV" [ref=e410]:
+                    - /url: /tata-cars/punch-ev
+                  - generic [ref=e411]: Rs. 6.49 Lakh
+              - listitem [ref=e412] [cursor=pointer]:
+                - img "Volkswagen Tayron R-Line" [ref=e413]
+                - generic [ref=e414]:
+                  - link "Volkswagen Tayron R-Line" [ref=e415]:
+                    - /url: /volkswagen-cars/tayron-r-line
+                  - generic [ref=e416]: Rs. 46.99 Lakh
+              - listitem [ref=e417] [cursor=pointer]:
+                - img "Maruti e Vitara" [ref=e418]
+                - generic [ref=e419]:
+                  - link "Maruti e Vitara" [ref=e420]:
+                    - /url: /maruti-suzuki-cars/e-vitara
+                  - generic [ref=e421]: Rs. 15.99 Lakh
+              - listitem [ref=e422] [cursor=pointer]:
+                - img "Nissan Gravite" [ref=e423]
+                - generic [ref=e424]:
+                  - link "Nissan Gravite" [ref=e425]:
+                    - /url: /nissan-cars/gravite
+                  - generic [ref=e426]: Rs. 5.65 Lakh
+              - listitem [ref=e427] [cursor=pointer]:
+                - img "Tata Xpres T EV" [ref=e428]
+                - generic [ref=e429]:
+                  - link "Tata Xpres T EV" [ref=e430]:
+                    - /url: /tata-cars/xpres-ev
+                  - generic [ref=e431]: Rs. 13.04 Lakh
+            - link "All Latest Cars" [ref=e433] [cursor=pointer]:
+              - /url: /launches
+          - generic [ref=e437]:
+            - list [ref=e441]:
+              - listitem [ref=e442] [cursor=pointer]:
+                - img "Toyota Urban Cruiser EBELLA" [ref=e443]
+                - generic [ref=e444]:
+                  - link "Toyota Urban Cruiser EBELLA" [ref=e445]:
+                    - /url: /toyota-cars/urban-cruiser-ebella
+                  - generic [ref=e446]: Rs. 18.00 Lakh
+              - listitem [ref=e447] [cursor=pointer]:
+                - img "Mercedes-Benz V-Class" [ref=e448]
+                - generic [ref=e449]:
+                  - link "Mercedes-Benz V-Class" [ref=e450]:
+                    - /url: /mercedes-benz-cars/v-class
+                  - generic [ref=e451]: Rs. 1.00 Crore
+              - listitem [ref=e452] [cursor=pointer]:
+                - img "Ferrari 849 Testarossa" [ref=e453]
+                - generic [ref=e454]:
+                  - link "Ferrari 849 Testarossa" [ref=e455]:
+                    - /url: /ferrari-cars/849-testarossa
+                  - generic [ref=e456]: Rs. 10.37 Crore
+              - listitem [ref=e457] [cursor=pointer]:
+                - img "Renault Duster" [ref=e458]
+                - generic [ref=e459]:
+                  - link "Renault Duster" [ref=e460]:
+                    - /url: /renault-cars/duster
+                  - generic [ref=e461]: Rs. 10.00 Lakh
+              - listitem [ref=e462] [cursor=pointer]:
+                - img "Maruti Brezza 2026" [ref=e463]
+                - generic [ref=e464]:
+                  - link "Maruti Brezza 2026" [ref=e465]:
+                    - /url: /maruti-suzuki-cars/brezza-2025
+                  - generic [ref=e466]: Rs. 8.50 Lakh
+              - listitem [ref=e467] [cursor=pointer]:
+                - img "Skoda Elroq" [ref=e468]
+                - generic [ref=e469]:
+                  - link "Skoda Elroq" [ref=e470]:
+                    - /url: /skoda-cars/elroq
+                  - generic [ref=e471]: Rs. 50.00 Lakh
+              - listitem [ref=e472] [cursor=pointer]:
+                - img "Hyundai Verna Facelift" [ref=e473]
+                - generic [ref=e474]:
+                  - link "Hyundai Verna Facelift" [ref=e475]:
+                    - /url: /hyundai-cars/verna-facelift
+                  - generic [ref=e476]: Rs. 12.00 Lakh
+              - listitem [ref=e477] [cursor=pointer]:
+                - img "Volkswagen Taigun Facelift" [ref=e478]
+                - generic [ref=e479]:
+                  - link "Volkswagen Taigun Facelift" [ref=e480]:
+                    - /url: /volkswagen-cars/taigun-facelift
+                  - generic [ref=e481]: Price to be announced
+              - listitem [ref=e482] [cursor=pointer]:
+                - img "Skoda Kushaq Facelift" [ref=e483]
+                - generic [ref=e484]:
+                  - link "Skoda Kushaq Facelift" [ref=e485]:
+                    - /url: /skoda-cars/kushaq-facelift
+                  - generic [ref=e486]: Rs. 10.59 Lakh
+              - listitem [ref=e487] [cursor=pointer]:
+                - img "Tata Sierra EV" [ref=e488]
+                - generic [ref=e489]:
+                  - link "Tata Sierra EV" [ref=e490]:
+                    - /url: /tata-cars/sierra-ev
+                  - generic [ref=e491]: Rs. 15.00 Lakh
+            - link "All Upcoming Cars" [ref=e495] [cursor=pointer]:
+              - /url: /upcoming-cars
+      - generic [ref=e497]:
+        - generic [ref=e498]:
+          - heading "New Cars By Fuel Type" [level=2] [ref=e499]
+          - list [ref=e501]:
+            - listitem [ref=e502] [cursor=pointer]: Best Mileage
+            - listitem [ref=e503] [cursor=pointer]: Electric
+            - listitem [ref=e504] [cursor=pointer]: CNG
+            - listitem [ref=e505] [cursor=pointer]: Hybrid
+        - generic [ref=e506]:
+          - generic [ref=e510]:
+            - list [ref=e514]:
+              - listitem [ref=e515] [cursor=pointer]:
+                - img "Maruti Wagon R tour" [ref=e516]
+                - generic [ref=e517]:
+                  - link "Maruti Wagon R tour" [ref=e518]:
+                    - /url: /maruti-suzuki-cars/wagon-r-tour
+                  - generic [ref=e519]: Rs. 4.99 Lakh
+                - generic [ref=e520]: 34 kmpl
+              - listitem [ref=e521] [cursor=pointer]:
+                - img "Maruti Celerio" [ref=e522]
+                - generic [ref=e523]:
+                  - link "Maruti Celerio" [ref=e524]:
+                    - /url: /maruti-suzuki-cars/celerio
+                  - generic [ref=e525]: Rs. 4.70 Lakh
+                - generic [ref=e526]: 34 kmpl
+              - listitem [ref=e527] [cursor=pointer]:
+                - img "Maruti Dzire Tour S" [ref=e528]
+                - generic [ref=e529]:
+                  - link "Maruti Dzire Tour S" [ref=e530]:
+                    - /url: /maruti-suzuki-cars/dzire-tour-s
+                  - generic [ref=e531]: Rs. 6.24 Lakh
+                - generic [ref=e532]: 34 kmpl
+              - listitem [ref=e533] [cursor=pointer]:
+                - img "Maruti Wagon R" [ref=e534]
+                - generic [ref=e535]:
+                  - link "Maruti Wagon R" [ref=e536]:
+                    - /url: /maruti-suzuki-cars/wagon-r
+                  - generic [ref=e537]: Rs. 4.99 Lakh
+                - generic [ref=e538]: 34 kmpl
+              - listitem [ref=e539] [cursor=pointer]:
+                - img "Maruti Alto K10" [ref=e540]
+                - generic [ref=e541]:
+                  - link "Maruti Alto K10" [ref=e542]:
+                    - /url: /maruti-suzuki-cars/alto-k10
+                  - generic [ref=e543]: Rs. 3.70 Lakh
+                - generic [ref=e544]: 33 kmpl
+              - listitem [ref=e545] [cursor=pointer]:
+                - img "Maruti Dzire" [ref=e546]
+                - generic [ref=e547]:
+                  - link "Maruti Dzire" [ref=e548]:
+                    - /url: /maruti-suzuki-cars/dzire
+                  - generic [ref=e549]: Rs. 6.26 Lakh
+                - generic [ref=e550]: 33 kmpl
+              - listitem [ref=e551] [cursor=pointer]:
+                - img "Maruti Alto Tour H1" [ref=e552]
+                - generic [ref=e553]:
+                  - link "Maruti Alto Tour H1" [ref=e554]:
+                    - /url: /maruti-suzuki-cars/alto-tour-h1
+                  - generic [ref=e555]: Rs. 4.00 Lakh
+                - generic [ref=e556]: 33 kmpl
+              - listitem [ref=e557] [cursor=pointer]:
+                - img "Maruti Swift" [ref=e558]
+                - generic [ref=e559]:
+                  - link "Maruti Swift" [ref=e560]:
+                    - /url: /maruti-suzuki-cars/swift
+                  - generic [ref=e561]: Rs. 5.79 Lakh
+                - generic [ref=e562]: 32 kmpl
+              - listitem [ref=e563] [cursor=pointer]:
+                - img "Maruti S-Presso" [ref=e564]
+                - generic [ref=e565]:
+                  - link "Maruti S-Presso" [ref=e566]:
+                    - /url: /maruti-suzuki-cars/s-presso
+                  - generic [ref=e567]: Rs. 3.50 Lakh
+                - generic [ref=e568]: 32 kmpl
+              - listitem [ref=e569] [cursor=pointer]:
+                - img "Kia Sonet" [ref=e570]
+                - generic [ref=e571]:
+                  - link "Kia Sonet" [ref=e572]:
+                    - /url: /kia-cars/sonet
+                  - generic [ref=e573]: Rs. 7.30 Lakh
+                - generic [ref=e574]: 24 kmpl
+            - link "All Best Mileage Cars" [ref=e578] [cursor=pointer]:
+              - /url: /newcars/best-mileage-cars
+          - generic [ref=e582]:
+            - list [ref=e586]:
+              - listitem [ref=e587] [cursor=pointer]:
+                - img "Mercedes-Benz EQS" [ref=e588]
+                - generic [ref=e589]:
+                  - link "Mercedes-Benz EQS" [ref=e590]:
+                    - /url: /mercedes-benz-cars/eqs
+                  - generic [ref=e591]: Rs. 1.30 Crore
+                - generic [ref=e592]: 857 km
+              - listitem [ref=e593] [cursor=pointer]:
+                - img "Mercedes-Benz EQS SUV" [ref=e594]
+                - generic [ref=e595]:
+                  - link "Mercedes-Benz EQS SUV" [ref=e596]:
+                    - /url: /mercedes-benz-cars/eqs-suv
+                  - generic [ref=e597]: Rs. 1.34 Crore
+                - generic [ref=e598]: 820 km
+              - listitem [ref=e599] [cursor=pointer]:
+                - img "Porsche Taycan" [ref=e600]
+                - generic [ref=e601]:
+                  - link "Porsche Taycan" [ref=e602]:
+                    - /url: /porsche-cars/taycan
+                  - generic [ref=e603]: Rs. 1.70 Crore
+                - generic [ref=e604]: 705 km
+              - listitem [ref=e605] [cursor=pointer]:
+                - img "Mahindra BE 6" [ref=e606]
+                - generic [ref=e607]:
+                  - link "Mahindra BE 6" [ref=e608]:
+                    - /url: /mahindra-cars/be-6
+                  - generic [ref=e609]: Rs. 18.90 Lakh
+                - generic [ref=e610]: 683 km
+              - listitem [ref=e611] [cursor=pointer]:
+                - img "Mahindra XEV 9S" [ref=e612]
+                - generic [ref=e613]:
+                  - link "Mahindra XEV 9S" [ref=e614]:
+                    - /url: /mahindra-cars/xev-9s
+                  - generic [ref=e615]: Rs. 19.95 Lakh
+                - generic [ref=e616]: 679 km
+            - link "All Electric Cars" [ref=e618] [cursor=pointer]:
+              - /url: /newcars/electric-cars
+          - generic [ref=e622]:
+            - list [ref=e626]:
+              - listitem [ref=e627] [cursor=pointer]:
+                - img "Bajaj Qute" [ref=e628]
+                - generic [ref=e629]:
+                  - link "Bajaj Qute" [ref=e630]:
+                    - /url: /bajaj-cars/re60
+                  - generic [ref=e631]: Rs. 3.61 Lakh
+                - generic [ref=e632]: 43 kmpl
+              - listitem [ref=e633] [cursor=pointer]:
+                - img "Maruti Wagon R tour" [ref=e634]
+                - generic [ref=e635]:
+                  - link "Maruti Wagon R tour" [ref=e636]:
+                    - /url: /maruti-suzuki-cars/wagon-r-tour
+                  - generic [ref=e637]: Rs. 4.99 Lakh
+                - generic [ref=e638]: 34 kmpl
+              - listitem [ref=e639] [cursor=pointer]:
+                - img "Maruti Celerio" [ref=e640]
+                - generic [ref=e641]:
+                  - link "Maruti Celerio" [ref=e642]:
+                    - /url: /maruti-suzuki-cars/celerio
+                  - generic [ref=e643]: Rs. 4.70 Lakh
+                - generic [ref=e644]: 34 kmpl
+              - listitem [ref=e645] [cursor=pointer]:
+                - img "Maruti Dzire Tour S" [ref=e646]
+                - generic [ref=e647]:
+                  - link "Maruti Dzire Tour S" [ref=e648]:
+                    - /url: /maruti-suzuki-cars/dzire-tour-s
+                  - generic [ref=e649]: Rs. 6.24 Lakh
+                - generic [ref=e650]: 34 kmpl
+              - listitem [ref=e651] [cursor=pointer]:
+                - img "Maruti Wagon R" [ref=e652]
+                - generic [ref=e653]:
+                  - link "Maruti Wagon R" [ref=e654]:
+                    - /url: /maruti-suzuki-cars/wagon-r
+                  - generic [ref=e655]: Rs. 4.99 Lakh
+                - generic [ref=e656]: 34 kmpl
+              - listitem [ref=e657] [cursor=pointer]:
+                - img "Maruti Alto K10" [ref=e658]
+                - generic [ref=e659]:
+                  - link "Maruti Alto K10" [ref=e660]:
+                    - /url: /maruti-suzuki-cars/alto-k10
+                  - generic [ref=e661]: Rs. 3.70 Lakh
+                - generic [ref=e662]: 33 kmpl
+              - listitem [ref=e663] [cursor=pointer]:
+                - img "Maruti Dzire" [ref=e664]
+                - generic [ref=e665]:
+                  - link "Maruti Dzire" [ref=e666]:
+                    - /url: /maruti-suzuki-cars/dzire
+                  - generic [ref=e667]: Rs. 6.26 Lakh
+                - generic [ref=e668]: 33 kmpl
+              - listitem [ref=e669] [cursor=pointer]:
+                - img "Maruti Alto Tour H1" [ref=e670]
+                - generic [ref=e671]:
+                  - link "Maruti Alto Tour H1" [ref=e672]:
+                    - /url: /maruti-suzuki-cars/alto-tour-h1
+                  - generic [ref=e673]: Rs. 4.00 Lakh
+                - generic [ref=e674]: 33 kmpl
+              - listitem [ref=e675] [cursor=pointer]:
+                - img "Maruti Swift" [ref=e676]
+                - generic [ref=e677]:
+                  - link "Maruti Swift" [ref=e678]:
+                    - /url: /maruti-suzuki-cars/swift
+                  - generic [ref=e679]: Rs. 5.79 Lakh
+                - generic [ref=e680]: 32 kmpl
+              - listitem [ref=e681] [cursor=pointer]:
+                - img "Maruti S-Presso" [ref=e682]
+                - generic [ref=e683]:
+                  - link "Maruti S-Presso" [ref=e684]:
+                    - /url: /maruti-suzuki-cars/s-presso
+                  - generic [ref=e685]: Rs. 3.50 Lakh
+                - generic [ref=e686]: 32 kmpl
+            - link "View All CNG Cars" [ref=e690] [cursor=pointer]:
+              - /url: /newcars/best-CNG-cars
+          - generic [ref=e694]:
+            - list [ref=e698]:
+              - listitem [ref=e699] [cursor=pointer]:
+                - img "Maruti Grand Vitara" [ref=e700]
+                - generic [ref=e701]:
+                  - link "Maruti Grand Vitara" [ref=e702]:
+                    - /url: /maruti-suzuki-cars/grand-vitara
+                  - generic [ref=e703]: Rs. 10.77 Lakh
+                - generic [ref=e704]: 27 kmpl
+              - listitem [ref=e705] [cursor=pointer]:
+                - img "Maruti Victoris" [ref=e706]
+                - generic [ref=e707]:
+                  - link "Maruti Victoris" [ref=e708]:
+                    - /url: /maruti-suzuki-cars/victoris
+                  - generic [ref=e709]: Rs. 10.50 Lakh
+                - generic [ref=e710]: 19 kmpl
+              - listitem [ref=e711] [cursor=pointer]:
+                - img "Toyota Urban Cruiser Hyryder" [ref=e712]
+                - generic [ref=e713]:
+                  - link "Toyota Urban Cruiser Hyryder" [ref=e714]:
+                    - /url: /toyota-cars/hyryder
+                  - generic [ref=e715]: Rs. 10.99 Lakh
+                - generic [ref=e716]: 20 kmpl
+              - listitem [ref=e717] [cursor=pointer]:
+                - img "BMW M5" [ref=e718]
+                - generic [ref=e719]:
+                  - link "BMW M5" [ref=e720]:
+                    - /url: /bmw-cars/m5
+                  - generic [ref=e721]: Rs. 2.01 Crore
+                - generic [ref=e722]: 49 kmpl
+              - listitem [ref=e723] [cursor=pointer]:
+                - img "Toyota Camry" [ref=e724]
+                - generic [ref=e725]:
+                  - link "Toyota Camry" [ref=e726]:
+                    - /url: /toyota-cars/camry
+                  - generic [ref=e727]: Rs. 47.48 Lakh
+                - generic [ref=e728]: 25 kmpl
+            - link "All Hybrid Cars" [ref=e730] [cursor=pointer]:
+              - /url: /newcars/hybrid-cars
+      - generic [ref=e732]:
+        - generic [ref=e733]:
+          - heading "New Cars By Body Type" [level=2] [ref=e734]
+          - list [ref=e736]:
+            - listitem [ref=e737] [cursor=pointer]: SUV
+            - listitem [ref=e738] [cursor=pointer]: Hatchback
+            - listitem [ref=e739] [cursor=pointer]: Sedan
+            - listitem [ref=e740] [cursor=pointer]: MUV
+            - listitem [ref=e741] [cursor=pointer]: Luxury
+        - generic [ref=e742]:
+          - generic [ref=e746]:
+            - list [ref=e750]:
+              - listitem [ref=e751] [cursor=pointer]:
+                - img "Tata Punch" [ref=e752]
+                - generic [ref=e753]:
+                  - link "Tata Punch" [ref=e754]:
+                    - /url: /tata-cars/punch
+                  - generic [ref=e755]: Rs. 5.60 Lakh
+              - listitem [ref=e756] [cursor=pointer]:
+                - img "Tata Sierra" [ref=e757]
+                - generic [ref=e758]:
+                  - link "Tata Sierra" [ref=e759]:
+                    - /url: /tata-cars/sierra
+                  - generic [ref=e760]: Rs. 11.49 Lakh
+              - listitem [ref=e761] [cursor=pointer]:
+                - img "Maruti FRONX" [ref=e762]
+                - generic [ref=e763]:
+                  - link "Maruti FRONX" [ref=e764]:
+                    - /url: /maruti-suzuki-cars/fronx
+                  - generic [ref=e765]: Rs. 6.85 Lakh
+              - listitem [ref=e766] [cursor=pointer]:
+                - img "Kia Seltos" [ref=e767]
+                - generic [ref=e768]:
+                  - link "Kia Seltos" [ref=e769]:
+                    - /url: /kia-cars/seltos
+                  - generic [ref=e770]: Rs. 10.99 Lakh
+              - listitem [ref=e771] [cursor=pointer]:
+                - img "Mahindra Thar" [ref=e772]
+                - generic [ref=e773]:
+                  - link "Mahindra Thar" [ref=e774]:
+                    - /url: /mahindra-cars/thar
+                  - generic [ref=e775]: Rs. 9.99 Lakh
+            - link "All SUV Cars" [ref=e777] [cursor=pointer]:
+              - /url: /newcars/best-SUV-cars
+          - generic [ref=e781]:
+            - list [ref=e785]:
+              - listitem [ref=e786] [cursor=pointer]:
+                - img "Maruti Swift" [ref=e787]
+                - generic [ref=e788]:
+                  - link "Maruti Swift" [ref=e789]:
+                    - /url: /maruti-suzuki-cars/swift
+                  - generic [ref=e790]: Rs. 5.79 Lakh
+              - listitem [ref=e791] [cursor=pointer]:
+                - img "Maruti Baleno" [ref=e792]
+                - generic [ref=e793]:
+                  - link "Maruti Baleno" [ref=e794]:
+                    - /url: /maruti-suzuki-cars/baleno
+                  - generic [ref=e795]: Rs. 5.99 Lakh
+              - listitem [ref=e796] [cursor=pointer]:
+                - img "Hyundai i20" [ref=e797]
+                - generic [ref=e798]:
+                  - link "Hyundai i20" [ref=e799]:
+                    - /url: /hyundai-cars/i20
+                  - generic [ref=e800]: Rs. 5.99 Lakh
+              - listitem [ref=e801] [cursor=pointer]:
+                - img "Tata Tiago" [ref=e802]
+                - generic [ref=e803]:
+                  - link "Tata Tiago" [ref=e804]:
+                    - /url: /tata-cars/tiago
+                  - generic [ref=e805]: Rs. 4.57 Lakh
+              - listitem [ref=e806] [cursor=pointer]:
+                - img "Maruti Wagon R" [ref=e807]
+                - generic [ref=e808]:
+                  - link "Maruti Wagon R" [ref=e809]:
+                    - /url: /maruti-suzuki-cars/wagon-r
+                  - generic [ref=e810]: Rs. 4.99 Lakh
+            - link "All Hatchback Cars" [ref=e812] [cursor=pointer]:
+              - /url: /newcars/best-hatchback-cars
+          - generic [ref=e816]:
+            - list [ref=e820]:
+              - listitem [ref=e821] [cursor=pointer]:
+                - img "Maruti Dzire" [ref=e822]
+                - generic [ref=e823]:
+                  - link "Maruti Dzire" [ref=e824]:
+                    - /url: /maruti-suzuki-cars/dzire
+                  - generic [ref=e825]: Rs. 6.26 Lakh
+              - listitem [ref=e826] [cursor=pointer]:
+                - img "Hyundai Aura" [ref=e827]
+                - generic [ref=e828]:
+                  - link "Hyundai Aura" [ref=e829]:
+                    - /url: /hyundai-cars/aura
+                  - generic [ref=e830]: Rs. 6.00 Lakh
+              - listitem [ref=e831] [cursor=pointer]:
+                - img "Hyundai Verna" [ref=e832]
+                - generic [ref=e833]:
+                  - link "Hyundai Verna" [ref=e834]:
+                    - /url: /hyundai-cars/verna
+                  - generic [ref=e835]: Rs. 10.80 Lakh
+              - listitem [ref=e836] [cursor=pointer]:
+                - img "BMW M5" [ref=e837]
+                - generic [ref=e838]:
+                  - link "BMW M5" [ref=e839]:
+                    - /url: /bmw-cars/m5
+                  - generic [ref=e840]: Rs. 2.01 Crore
+              - listitem [ref=e841] [cursor=pointer]:
+                - img "Volkswagen Virtus" [ref=e842]
+                - generic [ref=e843]:
+                  - link "Volkswagen Virtus" [ref=e844]:
+                    - /url: /volkswagen-cars/virtus
+                  - generic [ref=e845]: Rs. 10.50 Lakh
+            - link "All Sedan Cars" [ref=e847] [cursor=pointer]:
+              - /url: /newcars/best-sedan-cars
+          - generic [ref=e851]:
+            - list [ref=e855]:
+              - listitem [ref=e856] [cursor=pointer]:
+                - img "Maruti Ertiga" [ref=e857]
+                - generic [ref=e858]:
+                  - link "Maruti Ertiga" [ref=e859]:
+                    - /url: /maruti-suzuki-cars/ertiga
+                  - generic [ref=e860]: Rs. 8.80 Lakh
+              - listitem [ref=e861] [cursor=pointer]:
+                - img "Nissan Gravite" [ref=e862]
+                - generic [ref=e863]:
+                  - link "Nissan Gravite" [ref=e864]:
+                    - /url: /nissan-cars/gravite
+                  - generic [ref=e865]: Rs. 5.65 Lakh
+              - listitem [ref=e866] [cursor=pointer]:
+                - img "Toyota Innova Crysta" [ref=e867]
+                - generic [ref=e868]:
+                  - link "Toyota Innova Crysta" [ref=e869]:
+                    - /url: /toyota-cars/innova-crysta
+                  - generic [ref=e870]: Rs. 18.85 Lakh
+              - listitem [ref=e871] [cursor=pointer]:
+                - img "Kia Carens" [ref=e872]
+                - generic [ref=e873]:
+                  - link "Kia Carens" [ref=e874]:
+                    - /url: /kia-cars/carens
+                  - generic [ref=e875]: Rs. 10.99 Lakh
+              - listitem [ref=e876] [cursor=pointer]:
+                - img "Toyota Innova Hycross" [ref=e877]
+                - generic [ref=e878]:
+                  - link "Toyota Innova Hycross" [ref=e879]:
+                    - /url: /toyota-cars/innova-hycross
+                  - generic [ref=e880]: Rs. 18.48 Lakh
+            - link "All MUV Cars" [ref=e882] [cursor=pointer]:
+              - /url: /newcars/best-MUV-cars
+          - generic [ref=e886]:
+            - list [ref=e890]:
+              - listitem [ref=e891] [cursor=pointer]:
+                - img "Porsche Macan EV" [ref=e892]
+                - generic [ref=e893]:
+                  - link "Porsche Macan EV" [ref=e894]:
+                    - /url: /porsche-cars/macan-ev
+                  - generic [ref=e895]: Rs. 1.22 Crore
+              - listitem [ref=e896] [cursor=pointer]:
+                - img "Rolls Royce Ghost Series II" [ref=e897]
+                - generic [ref=e898]:
+                  - link "Rolls Royce Ghost Series II" [ref=e899]:
+                    - /url: /rolls-royce-cars/ghost-series-ii
+                  - generic [ref=e900]: Rs. 8.95 Crore
+            - link "All Luxury Cars" [ref=e902] [cursor=pointer]:
+              - /url: /newcars/best-luxury-cars
+      - insertion
+      - generic [ref=e903]:
+        - heading "Popular Cars Comparison" [level=2] [ref=e905]
+        - list [ref=e912]:
+          - listitem [ref=e913] [cursor=pointer]:
+            - generic [ref=e914]:
+              - generic [ref=e915]:
+                - img "Maruti Ertiga Tour" [ref=e917]
+                - generic [ref=e918]: Maruti Suzuki
+                - generic [ref=e919]: Ertiga Tour
+                - generic [ref=e920]: Rs. 9.68 Lakh
+              - generic [ref=e921]: vs
+              - generic [ref=e922]:
+                - img "Nissan Gravite" [ref=e924]
+                - generic [ref=e925]: Nissan
+                - generic [ref=e926]: Gravite
+                - generic [ref=e927]: Rs. 5.65 Lakh
+              - link "Ertiga Tour vs Gravite" [ref=e928]:
+                - /url: /compare-cars/maruti-suzuki-ertiga-tour-vs-nissan-gravite
+          - listitem [ref=e929] [cursor=pointer]:
+            - generic [ref=e930]:
+              - generic [ref=e931]:
+                - img "Tata Nexon" [ref=e933]
+                - generic [ref=e934]: Tata
+                - generic [ref=e935]: Nexon
+                - generic [ref=e936]: Rs. 7.32 Lakh
+              - generic [ref=e937]: vs
+              - generic [ref=e938]:
+                - img "Tata Punch" [ref=e940]
+                - generic [ref=e941]: Tata
+                - generic [ref=e942]: Punch
+                - generic [ref=e943]: Rs. 5.60 Lakh
+              - link "Nexon vs Punch" [ref=e944]:
+                - /url: /compare-cars/tata-nexon-vs-tata-punch
+          - listitem [ref=e945] [cursor=pointer]:
+            - generic [ref=e946]:
+              - generic [ref=e947]:
+                - img "Maruti Baleno" [ref=e949]
+                - generic [ref=e950]: Maruti Suzuki
+                - generic [ref=e951]: Baleno
+                - generic [ref=e952]: Rs. 5.99 Lakh
+              - generic [ref=e953]: vs
+              - generic [ref=e954]:
+                - img "Maruti FRONX" [ref=e956]
+                - generic [ref=e957]: Maruti Suzuki
+                - generic [ref=e958]: FRONX
+                - generic [ref=e959]: Rs. 6.85 Lakh
+              - link "Baleno vs FRONX" [ref=e960]:
+                - /url: /compare-cars/maruti-suzuki-baleno-vs-maruti-suzuki-fronx
+          - listitem [ref=e961] [cursor=pointer]:
+            - generic [ref=e962]:
+              - generic [ref=e963]:
+                - img "Kia Sonet" [ref=e965]
+                - generic [ref=e966]: Kia
+                - generic [ref=e967]: Sonet
+                - generic [ref=e968]: Rs. 7.30 Lakh
+              - generic [ref=e969]: vs
+              - generic [ref=e970]:
+                - img "Hyundai Venue" [ref=e972]
+                - generic [ref=e973]: Hyundai
+                - generic [ref=e974]: Venue
+                - generic [ref=e975]: Rs. 8.00 Lakh
+              - link "Sonet vs Venue" [ref=e976]:
+                - /url: /compare-cars/hyundai-venue-vs-kia-sonet
+          - listitem [ref=e977] [cursor=pointer]:
+            - generic [ref=e978]:
+              - generic [ref=e979]:
+                - img "Maruti Grand Vitara" [ref=e981]
+                - generic [ref=e982]: Maruti Suzuki
+                - generic [ref=e983]: Grand Vitara
+                - generic [ref=e984]: Rs. 10.77 Lakh
+              - generic [ref=e985]: vs
+              - generic [ref=e986]:
+                - img "Toyota Urban Cruiser Hyryder" [ref=e988]
+                - generic [ref=e989]: Toyota
+                - generic [ref=e990]: Urban Cruiser Hyryder
+                - generic [ref=e991]: Rs. 10.99 Lakh
+              - link "Grand Vitara vs Urban Cruiser Hyryder" [ref=e992]:
+                - /url: /compare-cars/maruti-suzuki-grand-vitara-vs-toyota-hyryder
+          - listitem [ref=e993] [cursor=pointer]:
+            - generic [ref=e994]:
+              - generic [ref=e995]:
+                - img "Hyundai Creta" [ref=e997]
+                - generic [ref=e998]: Hyundai
+                - generic [ref=e999]: Creta
+                - generic [ref=e1000]: Rs. 10.79 Lakh
+              - generic [ref=e1001]: vs
+              - generic [ref=e1002]:
+                - img "Kia Seltos" [ref=e1004]
+                - generic [ref=e1005]: Kia
+                - generic [ref=e1006]: Seltos
+                - generic [ref=e1007]: Rs. 10.99 Lakh
+              - link "Creta vs Seltos" [ref=e1008]:
+                - /url: /compare-cars/hyundai-creta-vs-kia-seltos
+          - listitem [ref=e1009] [cursor=pointer]:
+            - generic [ref=e1010]:
+              - generic [ref=e1011]:
+                - img "Maruti FRONX" [ref=e1013]
+                - generic [ref=e1014]: Maruti Suzuki
+                - generic [ref=e1015]: FRONX
+                - generic [ref=e1016]: Rs. 6.85 Lakh
+              - generic [ref=e1017]: vs
+              - generic [ref=e1018]:
+                - img "Tata Punch" [ref=e1020]
+                - generic [ref=e1021]: Tata
+                - generic [ref=e1022]: Punch
+                - generic [ref=e1023]: Rs. 5.60 Lakh
+              - link "FRONX vs Punch" [ref=e1024]:
+                - /url: /compare-cars/maruti-suzuki-fronx-vs-tata-punch
+          - listitem [ref=e1025] [cursor=pointer]:
+            - generic [ref=e1026]:
+              - generic [ref=e1027]:
+                - img "Hyundai Creta" [ref=e1029]
+                - generic [ref=e1030]: Hyundai
+                - generic [ref=e1031]: Creta
+                - generic [ref=e1032]: Rs. 10.79 Lakh
+              - generic [ref=e1033]: vs
+              - generic [ref=e1034]:
+                - img "Tata Sierra" [ref=e1036]
+                - generic [ref=e1037]: Tata
+                - generic [ref=e1038]: Sierra
+                - generic [ref=e1039]: Rs. 11.49 Lakh
+              - link "Creta vs Sierra" [ref=e1040]:
+                - /url: /compare-cars/hyundai-creta-vs-tata-sierra
+          - listitem [ref=e1041] [cursor=pointer]:
+            - generic [ref=e1042]:
+              - generic [ref=e1043]:
+                - img "Tata Tiago" [ref=e1045]
+                - generic [ref=e1046]: Tata
+                - generic [ref=e1047]: Tiago
+                - generic [ref=e1048]: Rs. 4.57 Lakh
+              - generic [ref=e1049]: vs
+              - generic [ref=e1050]:
+                - img "Tata Punch" [ref=e1052]
+                - generic [ref=e1053]: Tata
+                - generic [ref=e1054]: Punch
+                - generic [ref=e1055]: Rs. 5.60 Lakh
+              - link "Tiago vs Punch" [ref=e1056]:
+                - /url: /compare-cars/tata-punch-vs-tata-tiago
+          - listitem [ref=e1057] [cursor=pointer]:
+            - generic [ref=e1058]:
+              - generic [ref=e1059]:
+                - img "Toyota Innova Hycross" [ref=e1061]
+                - generic [ref=e1062]: Toyota
+                - generic [ref=e1063]: Innova Hycross
+                - generic [ref=e1064]: Rs. 18.48 Lakh
+              - generic [ref=e1065]: vs
+              - generic [ref=e1066]:
+                - img "Toyota Innova Crysta" [ref=e1068]
+                - generic [ref=e1069]: Toyota
+                - generic [ref=e1070]: Innova Crysta
+                - generic [ref=e1071]: Rs. 18.85 Lakh
+              - link "Innova Hycross vs Innova Crysta" [ref=e1072]:
+                - /url: /compare-cars/toyota-innova-crysta-vs-toyota-innova-hycross
+        - link "Compare More Cars" [ref=e1075] [cursor=pointer]:
+          - /url: /compare-cars
+    - generic [ref=e1076]:
+      - generic [ref=e1078]:
+        - generic [ref=e1079]:
+          - heading "New Bikes And Scooters in India" [level=2] [ref=e1080]
+          - list [ref=e1082]:
+            - listitem [ref=e1083] [cursor=pointer]: Best Mileage
+            - listitem [ref=e1084] [cursor=pointer]: Popular
+            - listitem [ref=e1085] [cursor=pointer]: Latest
+            - listitem [ref=e1086] [cursor=pointer]: Upcoming
+            - listitem [ref=e1087] [cursor=pointer]: Scooters
+            - listitem [ref=e1088] [cursor=pointer]: Electric
+        - generic [ref=e1089]:
+          - generic [ref=e1093]:
+            - list [ref=e1097]:
+              - listitem [ref=e1098] [cursor=pointer]:
+                - img "Hero Splendor Plus XTEC" [ref=e1099]
+                - generic [ref=e1100]:
+                  - link "Hero Splendor Plus XTEC" [ref=e1101]:
+                    - /url: /hero-bikes/splendor-plus-xtec
+                  - generic [ref=e1102]: Rs. 77,678
+                - generic [ref=e1103]: 73 kmpl
+              - listitem [ref=e1104] [cursor=pointer]:
+                - img "Yamaha RayZR 125 Fi Hybrid" [ref=e1105]
+                - generic [ref=e1106]:
+                  - link "Yamaha RayZR 125 Fi Hybrid" [ref=e1107]:
+                    - /url: /yamaha-bikes/ray-zr-125
+                  - generic [ref=e1108]: Rs. 74,300
+                - generic [ref=e1109]: 71 kmpl
+              - listitem [ref=e1110] [cursor=pointer]:
+                - img "Hero Splendor Plus" [ref=e1111]
+                - generic [ref=e1112]:
+                  - link "Hero Splendor Plus" [ref=e1113]:
+                    - /url: /hero-bikes/splendor-plus
+                  - generic [ref=e1114]: Rs. 74,152
+                - generic [ref=e1115]: 70 kmpl
+              - listitem [ref=e1116] [cursor=pointer]:
+                - img "Hero HF Deluxe" [ref=e1117]
+                - generic [ref=e1118]:
+                  - link "Hero HF Deluxe" [ref=e1119]:
+                    - /url: /hero-bikes/hf-deluxe
+                  - generic [ref=e1120]: Rs. 56,742
+                - generic [ref=e1121]: 70 kmpl
+              - listitem [ref=e1122] [cursor=pointer]:
+                - img "Bajaj Platina 110" [ref=e1123]
+                - generic [ref=e1124]:
+                  - link "Bajaj Platina 110" [ref=e1125]:
+                    - /url: /bajaj-bikes/platina
+                  - generic [ref=e1126]: Rs. 69,714
+                - generic [ref=e1127]: 70 kmpl
+              - listitem [ref=e1128] [cursor=pointer]:
+                - img "Honda Livo" [ref=e1129]
+                - generic [ref=e1130]:
+                  - link "Honda Livo" [ref=e1131]:
+                    - /url: /honda-bikes/livo
+                  - generic [ref=e1132]: Rs. 79,555
+                - generic [ref=e1133]: 70 kmpl
+              - listitem [ref=e1134] [cursor=pointer]:
+                - img "Bajaj Platina 100" [ref=e1135]
+                - generic [ref=e1136]:
+                  - link "Bajaj Platina 100" [ref=e1137]:
+                    - /url: /bajaj-bikes/platina-100
+                  - generic [ref=e1138]: Rs. 65,897
+                - generic [ref=e1139]: 70 kmpl
+              - listitem [ref=e1140] [cursor=pointer]:
+                - img "Hero HF Deluxe Pro" [ref=e1141]
+                - generic [ref=e1142]:
+                  - link "Hero HF Deluxe Pro" [ref=e1143]:
+                    - /url: /hero-bikes/hf-deluxe-pro
+                  - generic [ref=e1144]: Rs. 69,235
+                - generic [ref=e1145]: 70 kmpl
+              - listitem [ref=e1146] [cursor=pointer]:
+                - img "Hero Passion Plus" [ref=e1147]
+                - generic [ref=e1148]:
+                  - link "Hero Passion Plus" [ref=e1149]:
+                    - /url: /hero-bikes/passion-plus
+                  - generic [ref=e1150]: Rs. 76,941
+                - generic [ref=e1151]: 70 kmpl
+              - listitem [ref=e1152] [cursor=pointer]:
+                - img "Bajaj CT 110X" [ref=e1153]
+                - generic [ref=e1154]:
+                  - link "Bajaj CT 110X" [ref=e1155]:
+                    - /url: /bajaj-bikes/ct110
+                  - generic [ref=e1156]: Rs. 67,885
+                - generic [ref=e1157]: 70 kmpl
+            - link "All Best Mileage Bikes" [ref=e1161] [cursor=pointer]:
+              - /url: /newbikes/best-mileage-bikes
+          - generic [ref=e1165]:
+            - list [ref=e1169]:
+              - listitem [ref=e1170] [cursor=pointer]:
+                - img "Hero Splendor Plus" [ref=e1171]
+                - generic [ref=e1172]:
+                  - link "Hero Splendor Plus" [ref=e1173]:
+                    - /url: /hero-bikes/splendor-plus
+                  - generic [ref=e1174]: Rs. 74,152
+              - listitem [ref=e1175] [cursor=pointer]:
+                - img "Royal Enfield Bullet 350" [ref=e1176]
+                - generic [ref=e1177]:
+                  - link "Royal Enfield Bullet 350" [ref=e1178]:
+                    - /url: /royal-enfield-bikes/bullet-350
+                  - generic [ref=e1179]: Rs. 1.62 Lakh
+              - listitem [ref=e1180] [cursor=pointer]:
+                - img "Royal Enfield Classic 350" [ref=e1181]
+                - generic [ref=e1182]:
+                  - link "Royal Enfield Classic 350" [ref=e1183]:
+                    - /url: /royal-enfield-bikes/classic-350
+                  - generic [ref=e1184]: Rs. 1.83 Lakh
+              - listitem [ref=e1185] [cursor=pointer]:
+                - img "Bajaj Pulsar N160" [ref=e1186]
+                - generic [ref=e1187]:
+                  - link "Bajaj Pulsar N160" [ref=e1188]:
+                    - /url: /bajaj-bikes/pulsar-n160
+                  - generic [ref=e1189]: Rs. 1.13 Lakh
+              - listitem [ref=e1190] [cursor=pointer]:
+                - img "Yamaha R15 V4" [ref=e1191]
+                - generic [ref=e1192]:
+                  - link "Yamaha R15 V4" [ref=e1193]:
+                    - /url: /yamaha-bikes/r15-v4
+                  - generic [ref=e1194]: Rs. 1.66 Lakh
+            - link "All Popular Bikes" [ref=e1196] [cursor=pointer]:
+              - /url: /newbikes/best-bikes-in-india
+          - generic [ref=e1200]:
+            - list [ref=e1204]:
+              - listitem [ref=e1205] [cursor=pointer]:
+                - img "KTM RC 160" [ref=e1206]
+                - generic [ref=e1207]:
+                  - link "KTM RC 160" [ref=e1208]:
+                    - /url: /ktm-bikes/rc-160
+                  - generic [ref=e1209]: Rs. 1.85 Lakh
+              - listitem [ref=e1210] [cursor=pointer]:
+                - img "Ducati XDiavel V4" [ref=e1211]
+                - generic [ref=e1212]:
+                  - link "Ducati XDiavel V4" [ref=e1213]:
+                    - /url: /ducati-bikes/xdiavel-v4
+                  - generic [ref=e1214]: Rs. 30.89 Lakh
+              - listitem [ref=e1215] [cursor=pointer]:
+                - img "Harley-Davidson CVO Road Glide" [ref=e1216]
+                - generic [ref=e1217]:
+                  - link "Harley-Davidson CVO Road Glide" [ref=e1218]:
+                    - /url: /harley-davidson-bikes/cvo-road-glide
+                  - generic [ref=e1219]: Rs. 67.37 Lakh
+              - listitem [ref=e1220] [cursor=pointer]:
+                - img "Harley-Davidson CVO Street Glide" [ref=e1221]
+                - generic [ref=e1222]:
+                  - link "Harley-Davidson CVO Street Glide" [ref=e1223]:
+                    - /url: /harley-davidson-bikes/cvo-street-glide
+                  - generic [ref=e1224]: Rs. 63.03 Lakh
+              - listitem [ref=e1225] [cursor=pointer]:
+                - img "Harley-Davidson X440 T" [ref=e1226]
+                - generic [ref=e1227]:
+                  - link "Harley-Davidson X440 T" [ref=e1228]:
+                    - /url: /harley-davidson-bikes/x440-t
+                  - generic [ref=e1229]: Rs. 2.80 Lakh
+            - link "All Latest Bikes" [ref=e1231] [cursor=pointer]:
+              - /url: /bikes/launches
+          - generic [ref=e1235]:
+            - list [ref=e1239]:
+              - listitem [ref=e1240] [cursor=pointer]:
+                - img "FB Mondial Piega 452" [ref=e1241]
+                - generic [ref=e1242]:
+                  - link "FB Mondial Piega 452" [ref=e1243]:
+                    - /url: /fb-mondial-bikes/piega-452
+                  - generic [ref=e1244]: Rs. 5.00 Lakh
+              - listitem [ref=e1245] [cursor=pointer]:
+                - img "Royal Enfield Bullet 650" [ref=e1246]
+                - generic [ref=e1247]:
+                  - link "Royal Enfield Bullet 650" [ref=e1248]:
+                    - /url: /royal-enfield-bikes/bullet-650
+                  - generic [ref=e1249]: Rs. 3.40 Lakh
+              - listitem [ref=e1250] [cursor=pointer]:
+                - img "2026 Bajaj Pulsar" [ref=e1251]
+                - generic [ref=e1252]:
+                  - link "2026 Bajaj Pulsar" [ref=e1253]:
+                    - /url: /bajaj-bikes/2026-pulsar
+                  - generic [ref=e1254]: Rs. 95,000
+              - listitem [ref=e1255] [cursor=pointer]:
+                - img "Triumph Speed 350" [ref=e1256]
+                - generic [ref=e1257]:
+                  - link "Triumph Speed 350" [ref=e1258]:
+                    - /url: /triumph-bikes/speed-350
+                  - generic [ref=e1259]: Rs. 1.90 Lakh
+              - listitem [ref=e1260] [cursor=pointer]:
+                - img "2026 Hero Mavrick 440" [ref=e1261]
+                - generic [ref=e1262]:
+                  - link "2026 Hero Mavrick 440" [ref=e1263]:
+                    - /url: /hero-bikes/2025-mavrick-440
+                  - generic [ref=e1264]: Rs. 2.30 Lakh
+              - listitem [ref=e1265] [cursor=pointer]:
+                - img "Brixton Crossfire 500 Storr" [ref=e1266]
+                - generic [ref=e1267]:
+                  - link "Brixton Crossfire 500 Storr" [ref=e1268]:
+                    - /url: /brixton-motorcycles-bikes/crossfire-500-storr
+                  - generic [ref=e1269]: Rs. 5.50 Lakh
+              - listitem [ref=e1270] [cursor=pointer]:
+                - img "Hero Karizma XMR 250" [ref=e1271]
+                - generic [ref=e1272]:
+                  - link "Hero Karizma XMR 250" [ref=e1273]:
+                    - /url: /hero-bikes/karizma-xmr-250
+                  - generic [ref=e1274]: Rs. 2.00 Lakh
+              - listitem [ref=e1275] [cursor=pointer]:
+                - img "2026 Husqvarna Svartpilen 401" [ref=e1276]
+                - generic [ref=e1277]:
+                  - link "2026 Husqvarna Svartpilen 401" [ref=e1278]:
+                    - /url: /husqvarna-bikes/2025-svartpilen-401
+                  - generic [ref=e1279]: Rs. 2.99 Lakh
+              - listitem [ref=e1280] [cursor=pointer]:
+                - img "2026 Husqvarna Vitpilen 250" [ref=e1281]
+                - generic [ref=e1282]:
+                  - link "2026 Husqvarna Vitpilen 250" [ref=e1283]:
+                    - /url: /husqvarna-bikes/2025-vitpilen-250
+                  - generic [ref=e1284]: Rs. 2.30 Lakh
+              - listitem [ref=e1285] [cursor=pointer]:
+                - img "BMW F 450 GS" [ref=e1286]
+                - generic [ref=e1287]:
+                  - link "BMW F 450 GS" [ref=e1288]:
+                    - /url: /bmw-bikes/f-450-gs
+                  - generic [ref=e1289]: Rs. 4.50 Lakh
+            - link "All Upcoming Bikes" [ref=e1293] [cursor=pointer]:
+              - /url: /upcoming-bikes
+          - generic [ref=e1297]:
+            - list [ref=e1301]:
+              - listitem [ref=e1302] [cursor=pointer]:
+                - img "Honda Activa 6G" [ref=e1303]
+                - generic [ref=e1304]:
+                  - link "Honda Activa 6G" [ref=e1305]:
+                    - /url: /honda-bikes/activa-6g
+                  - generic [ref=e1306]: Rs. 75,433
+              - listitem [ref=e1307] [cursor=pointer]:
+                - img "Suzuki Access 125" [ref=e1308]
+                - generic [ref=e1309]:
+                  - link "Suzuki Access 125" [ref=e1310]:
+                    - /url: /suzuki-bikes/access-125
+                  - generic [ref=e1311]: Rs. 77,684
+              - listitem [ref=e1312] [cursor=pointer]:
+                - img "TVS Jupiter" [ref=e1313]
+                - generic [ref=e1314]:
+                  - link "TVS Jupiter" [ref=e1315]:
+                    - /url: /tvs-bikes/jupiter
+                  - generic [ref=e1316]: Rs. 73,400
+              - listitem [ref=e1317] [cursor=pointer]:
+                - img "Yamaha RayZR 125 Fi Hybrid" [ref=e1318]
+                - generic [ref=e1319]:
+                  - link "Yamaha RayZR 125 Fi Hybrid" [ref=e1320]:
+                    - /url: /yamaha-bikes/ray-zr-125
+                  - generic [ref=e1321]: Rs. 74,300
+              - listitem [ref=e1322] [cursor=pointer]:
+                - img "Suzuki Burgman Street" [ref=e1323]
+                - generic [ref=e1324]:
+                  - link "Suzuki Burgman Street" [ref=e1325]:
+                    - /url: /suzuki-bikes/burgman-street
+                  - generic [ref=e1326]: Rs. 91,676
+            - link "View All Scooters" [ref=e1328] [cursor=pointer]:
+              - /url: /scooters
+          - generic [ref=e1332]:
+            - list [ref=e1336]:
+              - listitem [ref=e1337] [cursor=pointer]:
+                - img "Lectrix EV LXS 2.0" [ref=e1338]
+                - generic [ref=e1339]:
+                  - link "Lectrix EV LXS 2.0" [ref=e1340]:
+                    - /url: /lectrix-ev-bikes/lxs-20
+                  - generic [ref=e1341]: Rs. 84,990
+                - generic [ref=e1342]: 98 km
+              - listitem [ref=e1343] [cursor=pointer]:
+                - img "Suzuki e Access" [ref=e1344]
+                - generic [ref=e1345]:
+                  - link "Suzuki e Access" [ref=e1346]:
+                    - /url: /suzuki-bikes/e-access
+                  - generic [ref=e1347]: Rs. 1.88 Lakh
+                - generic [ref=e1348]: 95 km
+              - listitem [ref=e1349] [cursor=pointer]:
+                - img "Hop Electric LEO" [ref=e1350]
+                - generic [ref=e1351]:
+                  - link "Hop Electric LEO" [ref=e1352]:
+                    - /url: /hop-electric-bikes/leo
+                  - generic [ref=e1353]: Rs. 84,360
+                - generic [ref=e1354]: 95 km
+              - listitem [ref=e1355] [cursor=pointer]:
+                - img "TVS iQube" [ref=e1356]
+                - generic [ref=e1357]:
+                  - link "TVS iQube" [ref=e1358]:
+                    - /url: /tvs-bikes/iqube-electric
+                  - generic [ref=e1359]: Rs. 1.11 Lakh
+                - generic [ref=e1360]: 94 km
+              - listitem [ref=e1361] [cursor=pointer]:
+                - img "Vida VX2" [ref=e1362]
+                - generic [ref=e1363]:
+                  - link "Vida VX2" [ref=e1364]:
+                    - /url: /vida-bikes/vx2
+                  - generic [ref=e1365]: Rs. 44,990
+                - generic [ref=e1366]: 92 km
+            - link "All Electric Bikes" [ref=e1368] [cursor=pointer]:
+              - /url: /newbikes/electric-bikes
+      - generic [ref=e1370]:
+        - generic [ref=e1371]:
+          - heading "New Bikes By Body Type" [level=2] [ref=e1372]
+          - list [ref=e1374]:
+            - listitem [ref=e1375] [cursor=pointer]: Sports
+            - listitem [ref=e1376] [cursor=pointer]: Cruiser
+            - listitem [ref=e1377] [cursor=pointer]: Off Road
+            - listitem [ref=e1378] [cursor=pointer]: Commuter
+        - generic [ref=e1379]:
+          - generic [ref=e1383]:
+            - list [ref=e1387]:
+              - listitem [ref=e1388] [cursor=pointer]:
+                - img "Bajaj Pulsar N160" [ref=e1389]
+                - generic [ref=e1390]:
+                  - link "Bajaj Pulsar N160" [ref=e1391]:
+                    - /url: /bajaj-bikes/pulsar-n160
+                  - generic [ref=e1392]: Rs. 1.13 Lakh
+              - listitem [ref=e1393] [cursor=pointer]:
+                - img "Yamaha R15 V4" [ref=e1394]
+                - generic [ref=e1395]:
+                  - link "Yamaha R15 V4" [ref=e1396]:
+                    - /url: /yamaha-bikes/r15-v4
+                  - generic [ref=e1397]: Rs. 1.66 Lakh
+              - listitem [ref=e1398] [cursor=pointer]:
+                - img "Kawasaki Ninja ZX-10R" [ref=e1399]
+                - generic [ref=e1400]:
+                  - link "Kawasaki Ninja ZX-10R" [ref=e1401]:
+                    - /url: /kawasaki-bikes/ninja-zx-10r
+                  - generic [ref=e1402]: Rs. 20.79 Lakh
+              - listitem [ref=e1403] [cursor=pointer]:
+                - img "Bajaj Pulsar 125" [ref=e1404]
+                - generic [ref=e1405]:
+                  - link "Bajaj Pulsar 125" [ref=e1406]:
+                    - /url: /bajaj-bikes/pulsar-125
+                  - generic [ref=e1407]: Rs. 85,178
+              - listitem [ref=e1408] [cursor=pointer]:
+                - img "KTM Duke 390" [ref=e1409]
+                - generic [ref=e1410]:
+                  - link "KTM Duke 390" [ref=e1411]:
+                    - /url: /ktm-bikes/duke-390
+                  - generic [ref=e1412]: Rs. 3.00 Lakh
+            - link "All Sports Bikes" [ref=e1414] [cursor=pointer]:
+              - /url: /newbikes/best-sports-bikes
+          - generic [ref=e1418]:
+            - list [ref=e1422]:
+              - listitem [ref=e1423] [cursor=pointer]:
+                - img "Royal Enfield Bullet 350" [ref=e1424]
+                - generic [ref=e1425]:
+                  - link "Royal Enfield Bullet 350" [ref=e1426]:
+                    - /url: /royal-enfield-bikes/bullet-350
+                  - generic [ref=e1427]: Rs. 1.62 Lakh
+              - listitem [ref=e1428] [cursor=pointer]:
+                - img "Royal Enfield Classic 350" [ref=e1429]
+                - generic [ref=e1430]:
+                  - link "Royal Enfield Classic 350" [ref=e1431]:
+                    - /url: /royal-enfield-bikes/classic-350
+                  - generic [ref=e1432]: Rs. 1.83 Lakh
+              - listitem [ref=e1433] [cursor=pointer]:
+                - img "Jawa 42 Bobber" [ref=e1434]
+                - generic [ref=e1435]:
+                  - link "Jawa 42 Bobber" [ref=e1436]:
+                    - /url: /jawa-bikes/42-bobber
+                  - generic [ref=e1437]: Rs. 1.93 Lakh
+              - listitem [ref=e1438] [cursor=pointer]:
+                - img "Royal Enfield Guerrilla 450" [ref=e1439]
+                - generic [ref=e1440]:
+                  - link "Royal Enfield Guerrilla 450" [ref=e1441]:
+                    - /url: /royal-enfield-bikes/guerrilla-450
+                  - generic [ref=e1442]: Rs. 2.56 Lakh
+              - listitem [ref=e1443] [cursor=pointer]:
+                - img "Harley-Davidson X440" [ref=e1444]
+                - generic [ref=e1445]:
+                  - link "Harley-Davidson X440" [ref=e1446]:
+                    - /url: /harley-davidson-bikes/x440
+                  - generic [ref=e1447]: Rs. 2.35 Lakh
+            - link "All Cruiser Bikes" [ref=e1449] [cursor=pointer]:
+              - /url: /newbikes/best-cruiser-bikes
+          - generic [ref=e1453]:
+            - list [ref=e1457]:
+              - listitem [ref=e1458] [cursor=pointer]:
+                - img "KTM 390 Adventure" [ref=e1459]
+                - generic [ref=e1460]:
+                  - link "KTM 390 Adventure" [ref=e1461]:
+                    - /url: /ktm-bikes/390-adventure-s
+                  - generic [ref=e1462]: Rs. 3.78 Lakh
+              - listitem [ref=e1463] [cursor=pointer]:
+                - img "KTM 250 Adventure" [ref=e1464]
+                - generic [ref=e1465]:
+                  - link "KTM 250 Adventure" [ref=e1466]:
+                    - /url: /ktm-bikes/2025-250-adventure
+                  - generic [ref=e1467]: Rs. 2.42 Lakh
+              - listitem [ref=e1468] [cursor=pointer]:
+                - img "Kawasaki KLX230" [ref=e1469]
+                - generic [ref=e1470]:
+                  - link "Kawasaki KLX230" [ref=e1471]:
+                    - /url: /kawasaki-bikes/klx-230
+                  - generic [ref=e1472]: Rs. 1.84 Lakh
+              - listitem [ref=e1473] [cursor=pointer]:
+                - img "KTM 390 Adventure X" [ref=e1474]
+                - generic [ref=e1475]:
+                  - link "KTM 390 Adventure X" [ref=e1476]:
+                    - /url: /ktm-bikes/2025-390-adventure-x
+                  - generic [ref=e1477]: Rs. 3.29 Lakh
+              - listitem [ref=e1478] [cursor=pointer]:
+                - img "KTM 390 Enduro R" [ref=e1479]
+                - generic [ref=e1480]:
+                  - link "KTM 390 Enduro R" [ref=e1481]:
+                    - /url: /ktm-bikes/390-enduro-r
+                  - generic [ref=e1482]: Rs. 3.41 Lakh
+            - link "All Off Road Bikes" [ref=e1484] [cursor=pointer]:
+              - /url: /newbikes/best-off-road-bikes
+          - generic [ref=e1488]:
+            - list [ref=e1492]:
+              - listitem [ref=e1493] [cursor=pointer]:
+                - img "Hero Splendor Plus" [ref=e1494]
+                - generic [ref=e1495]:
+                  - link "Hero Splendor Plus" [ref=e1496]:
+                    - /url: /hero-bikes/splendor-plus
+                  - generic [ref=e1497]: Rs. 74,152
+              - listitem [ref=e1498] [cursor=pointer]:
+                - img "Honda Shine" [ref=e1499]
+                - generic [ref=e1500]:
+                  - link "Honda Shine" [ref=e1501]:
+                    - /url: /honda-bikes/cb-shine
+                  - generic [ref=e1502]: Rs. 80,852
+              - listitem [ref=e1503] [cursor=pointer]:
+                - img "Hero HF Deluxe" [ref=e1504]
+                - generic [ref=e1505]:
+                  - link "Hero HF Deluxe" [ref=e1506]:
+                    - /url: /hero-bikes/hf-deluxe
+                  - generic [ref=e1507]: Rs. 56,742
+              - listitem [ref=e1508] [cursor=pointer]:
+                - img "Hero Splendor Plus XTEC" [ref=e1509]
+                - generic [ref=e1510]:
+                  - link "Hero Splendor Plus XTEC" [ref=e1511]:
+                    - /url: /hero-bikes/splendor-plus-xtec
+                  - generic [ref=e1512]: Rs. 77,678
+              - listitem [ref=e1513] [cursor=pointer]:
+                - img "Honda CB350 H'ness" [ref=e1514]
+                - generic [ref=e1515]:
+                  - link "Honda CB350 H'ness" [ref=e1516]:
+                    - /url: /honda-bikes/hness-cb350
+                  - generic [ref=e1517]: Rs. 1.92 Lakh
+            - link "All Commuter Bikes" [ref=e1519] [cursor=pointer]:
+              - /url: /newbikes/best-commuter-bikes
+      - generic [ref=e1522]:
+        - heading "Popular Bikes Comparison" [level=2] [ref=e1524]
+        - list [ref=e1531]:
+          - listitem [ref=e1532] [cursor=pointer]:
+            - generic [ref=e1533]:
+              - generic [ref=e1534]:
+                - img "Honda Activa 125" [ref=e1536]
+                - generic [ref=e1537]: Honda
+                - generic [ref=e1538]: Activa 125
+                - generic [ref=e1539]: Rs. 89,256
+              - generic [ref=e1540]: vs
+              - generic [ref=e1541]:
+                - img "Suzuki Access 125" [ref=e1543]
+                - generic [ref=e1544]: Suzuki
+                - generic [ref=e1545]: Access 125
+                - generic [ref=e1546]: Rs. 77,684
+              - link "Activa 125 vs Access 125" [ref=e1547]:
+                - /url: /bike-comparison/honda-activa-125-vs-suzuki-access-125
+          - listitem [ref=e1548] [cursor=pointer]:
+            - generic [ref=e1549]:
+              - generic [ref=e1550]:
+                - img "Royal Enfield Hunter 350" [ref=e1552]
+                - generic [ref=e1553]: Royal Enfield
+                - generic [ref=e1554]: Hunter 350
+                - generic [ref=e1555]: Rs. 1.38 Lakh
+              - generic [ref=e1556]: vs
+              - generic [ref=e1557]:
+                - img "TVS Ronin" [ref=e1559]
+                - generic [ref=e1560]: TVS
+                - generic [ref=e1561]: Ronin
+                - generic [ref=e1562]: Rs. 1.26 Lakh
+              - link "Hunter 350 vs Ronin" [ref=e1563]:
+                - /url: /bike-comparison/royal-enfield-hunter-vs-tvs-ronin
+          - listitem [ref=e1564] [cursor=pointer]:
+            - generic [ref=e1565]:
+              - generic [ref=e1566]:
+                - img "Honda Activa 6G" [ref=e1568]
+                - generic [ref=e1569]: Honda
+                - generic [ref=e1570]: Activa 6G
+                - generic [ref=e1571]: Rs. 75,433
+              - generic [ref=e1572]: vs
+              - generic [ref=e1573]:
+                - img "TVS Jupiter" [ref=e1575]
+                - generic [ref=e1576]: TVS
+                - generic [ref=e1577]: Jupiter
+                - generic [ref=e1578]: Rs. 73,400
+              - link "Activa 6G vs Jupiter" [ref=e1579]:
+                - /url: /bike-comparison/honda-activa-6g-vs-tvs-jupiter
+          - listitem [ref=e1580] [cursor=pointer]:
+            - generic [ref=e1581]:
+              - generic [ref=e1582]:
+                - img "Honda Activa 125" [ref=e1584]
+                - generic [ref=e1585]: Honda
+                - generic [ref=e1586]: Activa 125
+                - generic [ref=e1587]: Rs. 89,256
+              - generic [ref=e1588]: vs
+              - generic [ref=e1589]:
+                - img "TVS Jupiter" [ref=e1591]
+                - generic [ref=e1592]: TVS
+                - generic [ref=e1593]: Jupiter
+                - generic [ref=e1594]: Rs. 73,400
+              - link "Activa 125 vs Jupiter" [ref=e1595]:
+                - /url: /bike-comparison/honda-activa-125-vs-tvs-jupiter
+          - listitem [ref=e1596] [cursor=pointer]:
+            - generic [ref=e1597]:
+              - generic [ref=e1598]:
+                - img "Bajaj Pulsar NS160" [ref=e1600]
+                - generic [ref=e1601]: Bajaj
+                - generic [ref=e1602]: Pulsar NS160
+                - generic [ref=e1603]: Rs. 1.21 Lakh
+              - generic [ref=e1604]: vs
+              - generic [ref=e1605]:
+                - img "Bajaj Pulsar N160" [ref=e1607]
+                - generic [ref=e1608]: Bajaj
+                - generic [ref=e1609]: Pulsar N160
+                - generic [ref=e1610]: Rs. 1.13 Lakh
+              - link "Pulsar NS160 vs Pulsar N160" [ref=e1611]:
+                - /url: /bike-comparison/bajaj-pulsar-150ns-vs-bajaj-pulsar-n160
+          - listitem [ref=e1612] [cursor=pointer]:
+            - generic [ref=e1613]:
+              - generic [ref=e1614]:
+                - img "Honda Activa 6G" [ref=e1616]
+                - generic [ref=e1617]: Honda
+                - generic [ref=e1618]: Activa 6G
+                - generic [ref=e1619]: Rs. 75,433
+              - generic [ref=e1620]: vs
+              - generic [ref=e1621]:
+                - img "Suzuki Access 125" [ref=e1623]
+                - generic [ref=e1624]: Suzuki
+                - generic [ref=e1625]: Access 125
+                - generic [ref=e1626]: Rs. 77,684
+              - link "Activa 6G vs Access 125" [ref=e1627]:
+                - /url: /bike-comparison/honda-activa-6g-vs-suzuki-access-125
+          - listitem [ref=e1628] [cursor=pointer]:
+            - generic [ref=e1629]:
+              - generic [ref=e1630]:
+                - img "TVS Jupiter 125" [ref=e1632]
+                - generic [ref=e1633]: TVS
+                - generic [ref=e1634]: Jupiter 125
+                - generic [ref=e1635]: Rs. 76,200
+              - generic [ref=e1636]: vs
+              - generic [ref=e1637]:
+                - img "Suzuki Access 125" [ref=e1639]
+                - generic [ref=e1640]: Suzuki
+                - generic [ref=e1641]: Access 125
+                - generic [ref=e1642]: Rs. 77,684
+              - link "Jupiter 125 vs Access 125" [ref=e1643]:
+                - /url: /bike-comparison/suzuki-access-125-vs-tvs-jupiter-125
+          - listitem [ref=e1644] [cursor=pointer]:
+            - generic [ref=e1645]:
+              - generic [ref=e1646]:
+                - img "Royal Enfield Interceptor 650" [ref=e1648]
+                - generic [ref=e1649]: Royal Enfield
+                - generic [ref=e1650]: Interceptor 650
+                - generic [ref=e1651]: Rs. 3.35 Lakh
+              - generic [ref=e1652]: vs
+              - generic [ref=e1653]:
+                - img "Royal Enfield Continental GT 650" [ref=e1655]
+                - generic [ref=e1656]: Royal Enfield
+                - generic [ref=e1657]: Continental GT 650
+                - generic [ref=e1658]: Rs. 3.53 Lakh
+              - link "Interceptor 650 vs Continental GT 650" [ref=e1659]:
+                - /url: /bike-comparison/royal-enfield-continental-gt-650-vs-royal-enfield-interceptor-650
+          - listitem [ref=e1660] [cursor=pointer]:
+            - generic [ref=e1661]:
+              - generic [ref=e1662]:
+                - img "Honda Shine" [ref=e1664]
+                - generic [ref=e1665]: Honda
+                - generic [ref=e1666]: Shine
+                - generic [ref=e1667]: Rs. 80,852
+              - generic [ref=e1668]: vs
+              - generic [ref=e1669]:
+                - img "Honda SP 125" [ref=e1671]
+                - generic [ref=e1672]: Honda
+                - generic [ref=e1673]: SP125
+                - generic [ref=e1674]: Rs. 87,878
+              - link "Shine vs SP125" [ref=e1675]:
+                - /url: /bike-comparison/honda-cb-shine-vs-honda-sp125
+          - listitem [ref=e1676] [cursor=pointer]:
+            - generic [ref=e1677]:
+              - generic [ref=e1678]:
+                - img "Hero Splendor Plus" [ref=e1680]
+                - generic [ref=e1681]: Hero Moto Corp
+                - generic [ref=e1682]: Splendor Plus
+                - generic [ref=e1683]: Rs. 74,152
+              - generic [ref=e1684]: vs
+              - generic [ref=e1685]:
+                - img "Hero HF Deluxe" [ref=e1687]
+                - generic [ref=e1688]: Hero Moto Corp
+                - generic [ref=e1689]: HF Deluxe
+                - generic [ref=e1690]: Rs. 56,742
+              - link "Splendor Plus vs HF Deluxe" [ref=e1691]:
+                - /url: /bike-comparison/hero-hf-deluxe-vs-hero-splendor-plus
+        - link "Compare More Bikes" [ref=e1694] [cursor=pointer]:
+          - /url: /bikes/comparison
+    - generic [ref=e1696]:
+      - heading "Latest User Reviews" [level=2] [ref=e1697]
+      - generic [ref=e1698]:
+        - list [ref=e1702]:
+          - listitem [ref=e1703] [cursor=pointer]:
+            - generic [ref=e1705]:
+              - generic [ref=e1706]: Bajaj Pulsar 135LS
+              - generic [ref=e1707]: "4.0"
+              - text: 65 reviews
+            - generic [ref=e1708]: Condition of the Bike is really Good
+            - paragraph [ref=e1710]: Literally i'd a great experience with this model but as of now there are issues with engine and it creates multiple issues
+            - generic [ref=e1712]: "0"
+            - generic [ref=e1715]: Share
+            - generic [ref=e1717]:
+              - generic [ref=e1718]: Arvinth
+              - generic [ref=e1719]: 1 hour ago
+          - listitem [ref=e1720] [cursor=pointer]:
+            - generic [ref=e1722]:
+              - generic [ref=e1723]: Hero Xtreme 250R
+              - generic [ref=e1724]: "4.7"
+              - text: 7 reviews
+            - generic [ref=e1725]: The Hero Xtreme 250R
+            - generic [ref=e1726]:
+              - paragraph [ref=e1727]: The Hero Xtreme 250R is a great option for beginners who want a stylish, safe, and affordable 250cc bike1segment. With ABS safety, good mileage, and low maintenance costs, it strikes the right balance between fun1and practicality. I picked the Hero Xtreme because I needed a bike that can handle both city traffic and1longer rides comfortably.
+              - text: ...Read More
+            - generic [ref=e1729]: "0"
+            - generic [ref=e1732]: Share
+            - generic [ref=e1734]:
+              - generic [ref=e1735]: Anonymous
+              - generic [ref=e1736]: 1 day ago
+          - listitem [ref=e1737] [cursor=pointer]:
+            - generic [ref=e1739]:
+              - generic [ref=e1740]: Jawa 42
+              - generic [ref=e1741]: "3.9"
+              - text: 87 reviews
+            - generic [ref=e1742]: Absolutely Real Classic Legends
+            - paragraph [ref=e1744]: I love this bike for various reasons and some of them are handling, braking and on road presence.
+            - generic [ref=e1746]: "0"
+            - generic [ref=e1749]: Share
+            - generic [ref=e1751]:
+              - generic [ref=e1752]: Vishal
+              - generic [ref=e1753]: 1 day ago
+          - listitem [ref=e1754] [cursor=pointer]:
+            - generic [ref=e1756]:
+              - generic [ref=e1757]: Hero Super Splendor
+              - generic [ref=e1758]: "4.3"
+              - text: 1282 reviews
+            - generic [ref=e1759]: Experience of bike
+            - generic [ref=e1760]:
+              - paragraph [ref=e1761]: "Pros: Bike is very comfortable to ride.Seats are of good quality.There are no engine issues so far. Gives mileage of about 60kmpl. Performance is very good with quick pickup speed. The latest bs6 engine is very efficient and environmental friendly and controls pollutant emissions. In service centre all type of spare parts are available and service is very good. Cons: Bike feels little unstable at high speed. Lack of disc breaking system. Bike design is not very advanced or sporty."
+              - text: ...Read More
+            - generic [ref=e1763]: "0"
+            - generic [ref=e1766]: Share
+            - generic [ref=e1768]:
+              - generic [ref=e1769]: Suman
+              - generic [ref=e1770]: 2 days ago
+          - listitem [ref=e1771] [cursor=pointer]:
+            - generic [ref=e1773]:
+              - generic [ref=e1774]: Hero Xoom 125
+              - generic [ref=e1775]: "4.8"
+              - text: 8 reviews
+            - generic [ref=e1776]: Good attractive model
+            - paragraph [ref=e1778]: Quality and attractive mileages model Genuine company, i heard about good quality and performance.
+            - generic [ref=e1780]: "0"
+            - generic [ref=e1783]: Share
+            - generic [ref=e1785]:
+              - generic [ref=e1786]: Anonymous
+              - generic [ref=e1787]: 2 days ago
+          - listitem [ref=e1788] [cursor=pointer]:
+            - generic [ref=e1790]:
+              - generic [ref=e1791]: TVS Raider
+              - generic [ref=e1792]: "4.4"
+              - text: 752 reviews
+            - generic [ref=e1793]: 64+ mileage
+            - paragraph [ref=e1795]: Very good bike for long drive. But night riding is very bad experience due to head light. It is not good for night drive you need extra fog light for night driving, I request to tvs kindly work on head lamp for biker safety.
+            - generic [ref=e1797]: "0"
+            - generic [ref=e1800]: Share
+            - generic [ref=e1802]:
+              - generic [ref=e1803]: Gaurav
+              - generic [ref=e1804]: 2 days ago
+          - listitem [ref=e1805] [cursor=pointer]:
+            - generic [ref=e1807]:
+              - generic [ref=e1808]: Honda CB125 Hornet
+              - generic [ref=e1809]: "5.0"
+              - text: 5 reviews
+            - generic [ref=e1810]: i bought this bike
+            - generic [ref=e1811]:
+              - paragraph [ref=e1812]: i bought this bike 1 week ago, getting a mileage of 50kmpl in city before first service. The looks are good(subjective. Handling1of the bike in city traffic is so smooth. Suspension are quite surprisingly good on bad patches of road. not1lieing but the build quality is superb, don't think flexible panels is a drawback. Switchgear quality is good, tft display is the best in segment compare to other rivals. Just a bit pricier than it's rival, overall a1perfect package for city rides.
+              - text: ...Read More
+            - generic [ref=e1814]: "0"
+            - generic [ref=e1817]: Share
+            - generic [ref=e1819]:
+              - generic [ref=e1820]: Karan Popat
+              - generic [ref=e1821]: 4 days ago
+          - listitem [ref=e1822] [cursor=pointer]:
+            - generic [ref=e1824]:
+              - generic [ref=e1825]: Royal Enfield Bullet 350
+              - generic [ref=e1826]: "4.3"
+              - text: 351 reviews
+            - generic [ref=e1827]: Good and best bike ever
+            - paragraph [ref=e1829]: Very good bike and mileage according to the cc and also have good seat support, amazing performance and have better body standby support.
+            - generic [ref=e1831]: "0"
+            - generic [ref=e1834]: Share
+            - generic [ref=e1836]:
+              - generic [ref=e1837]: Lovmeet
+              - generic [ref=e1838]: 4 days ago
+          - listitem [ref=e1839] [cursor=pointer]:
+            - generic [ref=e1841]:
+              - generic [ref=e1842]: TVS Jupiter [2013-2024]
+              - generic [ref=e1843]: "3.9"
+              - text: 859 reviews
+            - generic [ref=e1844]: The bike still using tvs jupiter bs6 110
+            - paragraph [ref=e1846]: This bike i brought on 23 march 12 almost 3 year I quietly good in mileage around 45-50 in highways model and looking good.
+            - generic [ref=e1848]: "0"
+            - generic [ref=e1851]: Share
+            - generic [ref=e1853]:
+              - generic [ref=e1854]: Anonymous
+              - generic [ref=e1855]: 4 days ago
+          - listitem [ref=e1856] [cursor=pointer]:
+            - generic [ref=e1858]:
+              - generic [ref=e1859]: Honda Activa 125
+              - generic [ref=e1860]: "4.3"
+              - text: 160 reviews
+            - generic [ref=e1861]: For daily commute this
+            - generic [ref=e1862]:
+              - paragraph [ref=e1863]: For daily commute this scooty is one of the best. Smooth ride, great mileage and relatively low maintainence.1But it has some safety issues as the model has old and outdated parts. Engine is reliable and design is1compact but suspension has some issues and the bike needs to be used daily beacuse if it stays idle for long1then it has issue starting and the acceleration is jerky.
+              - text: ...Read More
+            - generic [ref=e1865]: "0"
+            - generic [ref=e1868]: Share
+            - generic [ref=e1870]:
+              - generic [ref=e1871]: Omkar Maurya
+              - generic [ref=e1872]: 4 days ago
+        - link "Read All Reviews" [ref=e1876] [cursor=pointer]:
+          - /url: /user-reviews
+    - link "Review and Win Banner" [ref=e1879]:
+      - /url: javascript:;
+      - img "Review and Win Banner" [ref=e1880]
+    - generic [ref=e1885]:
+      - generic [ref=e1887]:
+        - img "Largest Community of Car and Bike Owners" [ref=e1888]
+        - generic [ref=e1889]:
+          - heading "Join the Zigwheels Community NEW" [level=4] [ref=e1890]:
+            - text: Join the Zigwheels Community
+            - generic [ref=e1891]: NEW
+          - paragraph [ref=e1892]: India's largest automotive community
+          - generic [ref=e1893]:
+            - list:
+              - listitem [ref=e1894]:
+                - link "Explore Now" [ref=e1895] [cursor=pointer]:
+                  - /url: /community
+      - generic [ref=e1896]:
+        - heading "Latest Questions and Answers" [level=2] [ref=e1897]
+        - generic [ref=e1902]:
+          - generic [ref=e1903]:
+            - text: Q. Sunroof available?
+            - list [ref=e1904]:
+              - listitem [ref=e1905]: "Yes, Hyundai Alcazar comes with a panoramic sunroof in selected variants. We would suggest checking the detailed variant-wise features on the website or connecting with the nearest authorized dealership for exact availability in your preferred variant. Kindly click on the link to find the nearest authorized dealer: https://bitly.cx/gYdZI"
+          - generic [ref=e1906]:
+            - text: Q. CNG me hai? aur kitne price me?
+            - list [ref=e1907]:
+              - listitem [ref=e1908]: "The Nissan Gravite CNG variant is expected to be launched on 5th March 2026. The exact pricing has not been officially announced yet. Currently, the petrol variant is available from approximately ₹5.65 lakh (ex‑showroom). For the latest updates and detailed variant information, we recommend referring to official Nissan announcements or contacting your nearest authorized dealership.Kindly click on the link to find the nearest authorized dealership details: https://bitly.cx/5f3w"
+          - generic [ref=e1909]:
+            - text: Q. When it will launch I want tobuy this jeep please update?
+            - list [ref=e1910]:
+              - listitem [ref=e1911]: "As of now, there is no official confirmation regarding the launch of the Jeep Renegade in India. We would suggest staying tuned for updates and checking with the nearest authorized Jeep dealership for the latest information. Kindly click on the link to find your nearest authorized dealership details: https://bitly.cx/WIbEA"
+          - generic [ref=e1914] [cursor=pointer]: More Questions
+    - generic [ref=e1915]:
+      - heading "Used Cars in India" [level=2] [ref=e1916]
+      - generic:
+        - list [ref=e1923]:
+          - listitem [ref=e1924] [cursor=pointer]:
+            - link "New Delhi" [ref=e1925]:
+              - /url: /used-car/Delhi
+              - text: New Delhi
+          - listitem [ref=e1926] [cursor=pointer]:
+            - link "Bengaluru" [ref=e1927]:
+              - /url: /used-car/Bangalore
+              - text: Bengaluru
+          - listitem [ref=e1928] [cursor=pointer]:
+            - link "Mumbai" [ref=e1929]:
+              - /url: /used-car/Mumbai
+              - text: Mumbai
+          - listitem [ref=e1930] [cursor=pointer]:
+            - link "Kolkata" [ref=e1931]:
+              - /url: /used-car/Kolkata
+              - text: Kolkata
+          - listitem [ref=e1932] [cursor=pointer]:
+            - link "Chennai" [ref=e1933]:
+              - /url: /used-car/Chennai
+              - text: Chennai
+          - listitem [ref=e1934] [cursor=pointer]:
+            - link "Pune" [ref=e1935]:
+              - /url: /used-car/Pune
+              - text: Pune
+          - listitem [ref=e1936] [cursor=pointer]:
+            - link "Patna" [ref=e1937]:
+              - /url: /used-car/Patna
+              - text: Patna
+          - listitem [ref=e1938] [cursor=pointer]:
+            - link "Jaipur" [ref=e1939]:
+              - /url: /used-car/Jaipur
+              - text: Jaipur
+          - listitem [ref=e1940] [cursor=pointer]:
+            - link "Ahmedabad" [ref=e1941]:
+              - /url: /used-car/Ahmedabad
+              - text: Ahmedabad
+          - listitem [ref=e1942] [cursor=pointer]:
+            - link "Hyderabad" [ref=e1943]:
+              - /url: /used-car/Hyderabad
+              - text: Hyderabad
+        - textbox "Search your City" [ref=e1950]
+  - contentinfo [ref=e1951]:
+    - text:     
+    - generic [ref=e1953]:
+      - list [ref=e1954]:
+        - listitem [ref=e1955]:
+          - link "About Us" [ref=e1956] [cursor=pointer]:
+            - /url: /aboutus
+        - listitem [ref=e1957]:
+          - generic [ref=e1958] [cursor=pointer]: Advertise with us
+        - listitem [ref=e1959]:
+          - link "contact us" [ref=e1960] [cursor=pointer]:
+            - /url: /contactus
+      - list [ref=e1961]:
+        - listitem [ref=e1962]:
+          - link "Terms of use" [ref=e1963] [cursor=pointer]:
+            - /url: /termsofuse
+        - listitem [ref=e1964]:
+          - link "privacy policy" [ref=e1965] [cursor=pointer]:
+            - /url: /privacypolicy
+        - listitem [ref=e1966]:
+          - generic [ref=e1967] [cursor=pointer]: feedback
+      - generic [ref=e1968]:
+        - generic [ref=e1969]:
+          - img "zig-logo" [ref=e1971] [cursor=pointer]
+          - list [ref=e1972]:
+            - listitem [ref=e1973]:
+              - link "" [ref=e1974]:
+                - /url: https://www.facebook.com/zigwheels
+                - generic [ref=e1975]: 
+            - listitem [ref=e1976]:
+              - link "" [ref=e1977]:
+                - /url: https://x.com/zigwheels
+                - generic [ref=e1978]: 
+            - listitem [ref=e1979]:
+              - link "" [ref=e1980]:
+                - /url: https://www.youtube.com/channel/UCjmjWp38PCg15Z5ZS-tmpfw
+                - generic [ref=e1981]: 
+            - listitem [ref=e1982]:
+              - link "" [ref=e1983]:
+                - /url: https://www.instagram.com/zigwheels
+                - generic [ref=e1984]: 
+            - listitem [ref=e1985]:
+              - link "" [ref=e1986]:
+                - /url: https://in.linkedin.com/company/zigwheels
+                - generic [ref=e1987]: 
+        - generic [ref=e1988]:
+          - text: Download ZigWheels app
+          - generic [ref=e1989]:
+            - generic [ref=e1990]: "4.6"
+            - generic [ref=e1991]: 
+            - generic [ref=e1992]: User Rating
+            - generic [ref=e1993]: 10 Lakh+
+            - generic [ref=e1994]: Download
+        - generic:
+          - img "appimg"
+          - img "appimg"
+    - generic [ref=e1996]: © 2008-2026 Girnar Software Pvt. Ltd. All rights Reserved.
+```
