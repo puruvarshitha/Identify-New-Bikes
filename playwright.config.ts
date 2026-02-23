@@ -37,7 +37,6 @@ export default defineConfig({
     trace: 'on-first-retry',
     headless: false,
     video:'on',
-    // browserName:'chromium'
   },
 
   /* Configure projects for major browsers */
