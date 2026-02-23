@@ -5,18 +5,22 @@ import { Home } from '../pages/HomePage';
 test.setTimeout(60000);
 
 test.describe.serial('Login Scenarios', () => {
-  test('@Smoke S3:T1:Login page loads correctly', async ({ page }: { page: Page }) => {
-    const loginPage = new LoginPage(page);
+  let loginPage:LoginPage;
+
+  test.beforeEach(async({page}:{page:Page})=>{
+    loginPage=new LoginPage(page);
     await loginPage.navigateToHomePage();
     await loginPage.clickLoginIcon();
+  })
+
+  test('@Smoke S3:T1:Login page loads correctly', async ({ page }: { page: Page }) => {
+  
     await expect(loginPage.googleLoginButton).toBeVisible();
     await expect(page.getByText('Facebook')).toBeVisible();
   });
 
   test('@Regression S3:T2:loginEmailvalid', async ({ page }: { page: Page }) => {
-    const loginPage = new LoginPage(page);
-    await loginPage.navigateToHomePage();
-    await loginPage.clickLoginIcon();
+    
     await loginPage.clickGoogleLogin();
     await loginPage.enterEmail('team@4');
     await loginPage.clickNext();
@@ -25,9 +29,7 @@ test.describe.serial('Login Scenarios', () => {
   });
 
   test('@Regression S3:T3:loginvalidphoneNUMBER', async ({ page }: { page: Page }) => {
-    const loginPage = new LoginPage(page);
-    await loginPage.navigateToHomePage();
-    await loginPage.clickLoginIcon();
+    
     await loginPage.clickGoogleLogin();
     await loginPage.enterPhnNumber('1@112344657');
     await loginPage.clickNext();
@@ -36,9 +38,7 @@ test.describe.serial('Login Scenarios', () => {
   });
 
   test('@Regression S3:T4:Clicking Next without entering email shows error', async ({ page }: { page: Page }) => {
-    const loginPage = new LoginPage(page);
-    await loginPage.navigateToHomePage();
-    await loginPage.clickLoginIcon();
+   
     await loginPage.clickGoogleLogin();
     await loginPage.clickNext();
     await loginPage.captureErrorMessageScreenshot('./screenshots/empty-email-error.png');
