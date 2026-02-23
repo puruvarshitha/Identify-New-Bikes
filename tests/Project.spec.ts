@@ -27,7 +27,7 @@ test.describe.serial('Grouping 3 scenarios', () => {
     await upcomingBikesPage.getBikeDetails();
   });
 
-  test('Upcoming cars Test - Popular Used Car Models in Chennai', async () => {
+  test('Used cars Test - Popular Used Car Models in Chennai', async () => {
     await usedCarsPage.navigateToUsedCarsPage();
     await usedCarsPage.selectCity('Chennai');
     await usedCarsPage.scrollDown();

@@ -31,23 +31,6 @@ test.describe.serial('Upcoming Bikes Test Suite', () => {
     expect(bikeDetails.length).toBeGreaterThan(0);
   });
 
-  /*test.only('@Regression Verify Bike Details Contain Price and Launch Date', async () => {
-    await homePage.goto();
-    await homePage.clickUpcomingBikesTab();
-    await upcomingBikesPage.clickAllUpcomingBikesLink();
-    await upcomingBikesPage.selectBrand('Royal Enfield');
-
-    const bikeDetails = await upcomingBikesPage.getBikeDetails();
-    for (const bike of bikeDetails) {
-      expect(typeof bike.price).toBe('string');
-      expect(bike.price).toMatch(/(₹|Rs\.)\s?\d+/);
-      expect(typeof bike.launchDates).toBe('string');
-      expect(bike.launchDates).toMatch(/\d{4}/);
-    }
-  });
-  */
-
-
 test('@Regression Verify Bike Details Contain Price and Launch Date', async () => {
   await homePage.goto();
   await homePage.clickUpcomingBikesTab();
