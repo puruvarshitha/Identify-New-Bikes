@@ -25,7 +25,7 @@ export class LoginPage {
 
   // Go to ZigWheels homepage
   async navigateToHomePage(): Promise<void> {
-    await this.page.goto('https://www.zigwheels.com/');
+    await this.page.goto('/');
     await expect(this.page).toHaveURL('https://www.zigwheels.com/');
   }
 

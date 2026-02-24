@@ -8,7 +8,7 @@ test.describe('Used Cars Scenario - User Stories Based Tests', () => {
   test.beforeEach(async ({ browser }: { browser: Browser }) => {
     page = await browser.newPage();
     usedCarsPage = new UsedCarsPage(page);
-    await page.goto('https://www.zigwheels.com/');
+    await page.goto('/');
   });
 
   test('@Smoke Navigate to Used Cars Section', async () => {
